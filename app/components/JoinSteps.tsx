@@ -4,7 +4,7 @@ import { useState } from "react";
 import { PASTEL_ICONS, programBg } from "./ProgramIcon";
 
 const QR_LINK =
-  "https://ticket.vipmonkey.se/product-share/vipmonkey/1703c055-ba47-42b3-9934-64fcde29ca1f";
+  "https://ticket.vipmonkey.se/product-share/vipmonkey/0ef2be88-51e8-4ef7-a98b-d580536a181e";
 
 type Step = {
   emoji: string;
