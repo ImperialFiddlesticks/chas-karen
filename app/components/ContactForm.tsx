@@ -27,6 +27,16 @@ export default function ContactForm() {
 
   return (
     <form action={formAction} noValidate className="space-y-6">
+      {/* Honeypot field, hidden from real users */}
+      <input
+        type="text"
+        name="company"
+        tabIndex={-1}
+        autoComplete="off"
+        className="hidden"
+        aria-hidden="true"
+      />
+
       <div>
         <label htmlFor="name" className="font-medium">
           Namn
