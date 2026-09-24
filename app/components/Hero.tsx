@@ -43,7 +43,7 @@ export default function Hero() {
             Bli medlem
           </Link>
           <a
-            href="#om-oss"
+            href="/aktiviteter"
             className="rounded-full bg-chas-cyan px-6 py-3 text-center text-sm font-semibold text-chas-navy transition hover:brightness-95"
           >
             Läs mer

@@ -9,7 +9,7 @@ import ProgramIcon, {
 export const metadata: Metadata = {
   title: "Aktiviteter | Chas Studentkår",
   description:
-    "Ta del av aktiviteter, workshops och föreläsningar som studentkåren arrangerar.",
+    "Ta del av aktiviteter, workshops och lärorika events som studentkåren arrangerar.",
 };
 
 const ACTIVITIES: {
@@ -64,26 +64,39 @@ export default function Aktiviteter() {
     <main className="flex-1">
       <div className="mx-auto max-w-6xl px-6 py-16">
         <h1 className="flex items-center gap-4 text-4xl font-bold tracking-tight sm:text-5xl">
-          <ProgramIcon name="doe" className="w-14 shrink-0" />
+          <ProgramIcon
+            name="doe"
+            className="w-14 shrink-0"
+          />
           Aktiviteter
         </h1>
 
         <div className="mt-10 max-w-3xl space-y-4 leading-7 text-zinc-700 dark:text-zinc-300">
+          <p className="text-2xl font-bold text-zinc-900 sm:text-3xl dark:text-white">
+            <span className="relative isolate inline-block">
+              <span
+                aria-hidden
+                className={`absolute inset-x-0 bottom-1 -z-10 h-3 rounded-sm opacity-10 ${programBg("doe")}`}
+              />
+              Hej där!
+            </span>{" "}
+            👋
+          </p>
           <p>
-            Hej där! Som en del av studentkåren kan du ta del av en massa roliga
+            Som en del av studentkåren kan du ta del av en massa roliga
             aktiviteter, workshops och föreläsningar.
           </p>
           <p>
-            Vi har ett stort utbud av verksamheter som är öppna för dig, oavsett
-            om du vill fördjupa dina kunskaper i vårt bibliotek, lyssna på
-            inspirerande föreläsningar, nätverka med branschexperter eller bara
-            umgås med likasinnade.
+            Vill du lära dig något nytt, bli inspirerad av en grym föreläsare,
+            knyta kontakter inför framtida jobb eller bara hänga med folk som
+            också kan prata om kod i timmar utan att tröttna? Då har du kommit
+            rätt. Våra aktiviteter är öppna för alla.
           </p>
           <p>
-            Vi arrangerar även sociala evenemang där du kan koppla av och ha
-            kul. Var med och tävla i IT-spelturneringar, mingla på våra
-            temafester eller delta i spännande hackathons. Hos oss finns alltid
-            något att göra och möjligheter att skapa minnen för livet.
+            Ibland stänger vi laptopen och då blir det temafester, mingel och
+            hackathons där energi flödar och det som lät som en galen idé från
+            början tillslut blir något att visa upp. Hos oss händer det alltid
+            något, och det är här de bästa minnena från studietiden skapas.
           </p>
         </div>
 
