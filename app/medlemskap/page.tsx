@@ -20,51 +20,73 @@ const BENEFITS = [
 export default function Medlemskap() {
   return (
     <main className="flex-1">
-      <div className="mx-auto max-w-4xl px-6 py-16">
+      <div className="mx-auto max-w-6xl px-6 py-16">
         <h1 className="flex items-center gap-4 text-4xl font-bold tracking-tight sm:text-5xl">
-          <ProgramIcon name="net" className="w-12 shrink-0" />
+          <ProgramIcon
+            name="net"
+            className="w-12 shrink-0"
+          />
           Info &amp; medlemskap!
         </h1>
 
-        <div className="mt-10 flex gap-4 rounded-2xl border border-black/[.08] bg-zinc-50 p-6 dark:border-white/[.1] dark:bg-zinc-900">
-          <span aria-hidden className="text-xl">
-            💡
-          </span>
-          <div className="space-y-4 leading-7 text-zinc-700 dark:text-zinc-300">
-            <p>
-              Vi har en bred palett av verksamheter som är öppna för dig,
-              oavsett om du vill fördjupa dina kunskaper i vårt bibliotek, delta
-              i inspirerande föreläsningar, nätverka med branschexperter eller
-              bara umgås med likasinnade.
-            </p>
-            <p>
-              Vi anordnar även sociala events där du kan koppla av och ha
-              roligt. Var med och tävla i IT-spelturneringar, mingla på våra
-              temafester eller delta i spännande hackathons. Hos oss finns
-              alltid något att göra och möjligheter att skapa minnen för livet.
-            </p>
+        <div className="mt-10 grid gap-6 lg:grid-cols-5">
+          <div className="flex gap-4 rounded-2xl border border-black/[.08] bg-zinc-50 p-6 lg:col-span-3 dark:border-white/[.1] dark:bg-zinc-900">
+            <span
+              aria-hidden
+              className="text-xl"
+            >
+              💡
+            </span>
+            <div className="space-y-4 leading-7 text-zinc-700 dark:text-zinc-300">
+              <p className="text-lg font-medium text-zinc-900 sm:text-xl dark:text-white">
+                Vill du lära dig något nytt, bli inspirerad av en grym
+                föreläsare, knyta kontakter inför framtida jobb eller bara hänga
+                med folk som också kan prata om kod i timmar utan att tröttna?{" "}
+                <span className="relative isolate inline-block font-bold">
+                  <span
+                    aria-hidden
+                    className={`absolute inset-x-0 bottom-0.5 -z-10 h-2.5 rounded-sm opacity-60`}
+                  />
+                  Då har du kommit rätt.
+                </span>{" "}
+                Våra aktiviteter är öppna för alla.
+              </p>
+              <p>
+                Ibland stänger vi laptopen och då blir det temafester, mingel
+                och hackathons där energi flödar och det som lät som en galen
+                idé från början tillslut blir något att visa upp. Hos oss händer
+                det alltid något, och det är här de bästa minnena från
+                studietiden skapas.
+              </p>
+            </div>
           </div>
-        </div>
 
-        <div className="mt-12">
-          <div className="flex items-center gap-2 rounded-lg bg-zinc-100 px-4 py-3 font-medium dark:bg-zinc-900">
-            <ProgramIcon name="uxe" className="w-5 shrink-0" />
-            Varför bli medlem?
+          <div className="rounded-2xl border border-black/[.08] p-6 lg:col-span-2 dark:border-white/[.1]">
+            <h2 className="flex items-center gap-2 font-semibold">
+              <ProgramIcon
+                name="uxe"
+                className="w-5 shrink-0"
+              />
+              Varför bli medlem?
+            </h2>
+
+            <ul className="mt-4 space-y-3">
+              {BENEFITS.map((benefit, index) => (
+                <li
+                  key={benefit}
+                  className="flex items-start gap-3"
+                >
+                  <ProgramIcon
+                    name={PASTEL_ICONS[index % PASTEL_ICONS.length]}
+                    className="mt-1 w-4 shrink-0"
+                  />
+                  <span className="text-zinc-700 dark:text-zinc-300">
+                    {benefit}
+                  </span>
+                </li>
+              ))}
+            </ul>
           </div>
-
-          <ul className="mt-4 space-y-3">
-            {BENEFITS.map((benefit, index) => (
-              <li key={benefit} className="flex items-start gap-3">
-                <ProgramIcon
-                  name={PASTEL_ICONS[index % PASTEL_ICONS.length]}
-                  className="mt-1 w-4 shrink-0"
-                />
-                <span className="text-zinc-700 dark:text-zinc-300">
-                  {benefit}
-                </span>
-              </li>
-            ))}
-          </ul>
         </div>
 
         <div className="mt-16 border-t border-black/[.08] pt-12 dark:border-white/[.1]">
