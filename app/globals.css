@@ -5,6 +5,19 @@
   --foreground: #171717;
 }
 
+/* Programme icon colours, from public/chasbackground.jpg */
+@theme {
+  --color-chas-green: #b0da5e;
+  --color-chas-cyan: #6ec3e4;
+  --color-chas-olive: #c6b158;
+  --color-chas-blue: #4b64ff;
+  --color-chas-purple: #c68bd0;
+  --color-chas-salmon: #f08e82;
+  --color-chas-pink: #ff7890;
+  --color-chas-orange: #fdbe6b;
+  --color-chas-navy: #111633;
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);

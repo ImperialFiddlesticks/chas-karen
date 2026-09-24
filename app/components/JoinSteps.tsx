@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { PASTEL_ICONS, programBg } from "./ProgramIcon";
 
 const QR_LINK =
   "https://ticket.vipmonkey.se/product-share/vipmonkey/1703c055-ba47-42b3-9934-64fcde29ca1f";
@@ -132,7 +133,7 @@ export default function JoinSteps() {
             onClick={() => setLang("sv")}
             className={`rounded-full px-3 py-1 transition-colors ${
               lang === "sv"
-                ? "bg-foreground text-background"
+                ? "bg-chas-orange text-chas-navy"
                 : "text-zinc-600 dark:text-zinc-400"
             }`}
           >
@@ -143,7 +144,7 @@ export default function JoinSteps() {
             onClick={() => setLang("en")}
             className={`rounded-full px-3 py-1 transition-colors ${
               lang === "en"
-                ? "bg-foreground text-background"
+                ? "bg-chas-orange text-chas-navy"
                 : "text-zinc-600 dark:text-zinc-400"
             }`}
           >
@@ -162,7 +163,9 @@ export default function JoinSteps() {
             key={step.title}
             className="flex gap-4 rounded-xl border border-black/[.08] p-4 dark:border-white/[.1]"
           >
-            <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-zinc-100 text-sm font-semibold dark:bg-zinc-900">
+            <span
+              className={`flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-sm font-semibold text-chas-navy ${programBg(PASTEL_ICONS[index % PASTEL_ICONS.length])}`}
+            >
               {index + 1}
             </span>
             <div>
