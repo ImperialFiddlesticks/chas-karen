@@ -26,7 +26,11 @@ export default function ContactForm() {
   }
 
   return (
-    <form action={formAction} noValidate className="space-y-6">
+    <form
+      action={formAction}
+      noValidate
+      className="space-y-6"
+    >
       {/* Honeypot field, hidden from real users */}
       <input
         type="text"
@@ -38,14 +42,12 @@ export default function ContactForm() {
       />
 
       <div>
-        <label htmlFor="name" className="font-medium">
-          Namn
-        </label>
         <input
           id="name"
           name="name"
           type="text"
           autoComplete="name"
+          placeholder="Namn"
           required
           defaultValue={state.fields?.name}
           aria-invalid={Boolean(state.errors?.name)}
@@ -63,14 +65,12 @@ export default function ContactForm() {
       </div>
 
       <div>
-        <label htmlFor="email" className="font-medium">
-          E-post
-        </label>
         <input
           id="email"
           name="email"
           type="email"
           autoComplete="email"
+          placeholder="Email"
           required
           defaultValue={state.fields?.email}
           aria-invalid={Boolean(state.errors?.email)}
@@ -88,14 +88,12 @@ export default function ContactForm() {
       </div>
 
       <div>
-        <label htmlFor="message" className="font-medium">
-          Meddelande
-        </label>
         <textarea
           id="message"
           name="message"
           rows={6}
           required
+          placeholder="Hej bästa Kåren..."
           defaultValue={state.fields?.message}
           aria-invalid={Boolean(state.errors?.message)}
           aria-describedby={state.errors?.message ? "message-error" : undefined}
