@@ -1,0 +1,47 @@
+services:
+  web:
+    build:
+      context: .
+      target: runner
+    image: chas-karen:latest
+    container_name: chas-karen
+    restart: unless-stopped
+    # Host port 8018 -> container port 3000 (Next's default).
+    ports:
+      - "${PORT:-8018}:3000"
+    environment:
+      NODE_ENV: production
+      RESEND_API_KEY: ${RESEND_API_KEY:?RESEND_API_KEY must be set (see .env.example)}
+      CONTACT_TO_EMAIL: ${CONTACT_TO_EMAIL:?CONTACT_TO_EMAIL must be set (see .env.example)}
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "node",
+          "-e",
+          "fetch('http://127.0.0.1:3000/').then(r => process.exit(r.ok ? 0 : 1)).catch(() => process.exit(1))",
+        ]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+
+  # Opt-in dev server with hot reload: docker compose --profile dev up
+  # (On macOS/Windows `npm run dev` on the host is noticeably faster.)
+  dev:
+    profiles: ["dev"]
+    build:
+      context: .
+      target: dev
+    container_name: chas-karen-dev
+    ports:
+      - "${DEV_PORT:-8018}:3000"
+    environment:
+      NODE_ENV: development
+      WATCHPACK_POLLING: "true"
+      RESEND_API_KEY: ${RESEND_API_KEY:-}
+      CONTACT_TO_EMAIL: ${CONTACT_TO_EMAIL:-}
+    volumes:
+      - .:/app
+      - /app/node_modules
+      - /app/.next
