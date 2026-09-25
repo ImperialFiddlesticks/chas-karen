@@ -4,15 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 import ColorStripe from "./ColorStripe";
-
-const NAV_LINKS = [
-  // Hidden until the section exists.
-  // { href: "#om-oss", label: "Om oss" },
-  { href: "/aktiviteter", label: "Aktiviteter" },
-  { href: "/styrelsen", label: "Styrelsen" },
-  { href: "/medlemskap", label: "Medlemskap" },
-  { href: "/kontakt", label: "Kontakt" },
-];
+import { NAV_LINKS } from "@/lib/nav-links";
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -64,17 +56,17 @@ export default function Header() {
           <span className="sr-only">Meny</span>
           <div className="flex w-5 flex-col gap-1.5">
             <span
-              className={`h-0.5 w-full bg-white transition-transform ${
+              className={`h-0.5 w-full bg-chas-cyan transition-transform ${
                 menuOpen ? "translate-y-2 rotate-45" : ""
               }`}
             />
             <span
-              className={`h-0.5 w-full bg-white transition-opacity ${
+              className={`h-0.5 w-full bg-chas-cyan transition-opacity ${
                 menuOpen ? "opacity-0" : ""
               }`}
             />
             <span
-              className={`h-0.5 w-full bg-white transition-transform ${
+              className={`h-0.5 w-full bg-chas-cyan transition-transform ${
                 menuOpen ? "-translate-y-2 -rotate-45" : ""
               }`}
             />
