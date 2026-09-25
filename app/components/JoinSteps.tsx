@@ -22,7 +22,7 @@ const STEPS: Record<"sv" | "en", Step[]> = {
     {
       emoji: "👤",
       title: "Skapa en användare",
-      body: "Efter installation, skapa en användarprofil och logga in i appen. OBS! Använd din Chas Academy-email.",
+      body: "Efter installation, skapa en användarprofil och logga in i appen. ⚠️OBS, du som redan är medlem i Stockholms Studentbostäder (SSSB) måste använda samma mailadress i medlemskapet till Vip Monkey som du angett till SSSB.",
     },
     {
       emoji: "➕",
