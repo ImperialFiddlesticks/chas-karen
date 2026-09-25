@@ -18,13 +18,13 @@ export default function Hero() {
       <div className="absolute inset-0 -z-10 bg-linear-to-r from-background/85 via-background/50 to-transparent lg:bg-[linear-gradient(to_right,color-mix(in_oklab,var(--background)_85%,transparent)_28rem,color-mix(in_oklab,var(--background)_50%,transparent)_40rem,transparent_52rem)]" />
 
       <div className="w-full px-6 sm:px-12 lg:px-20">
-        <Image
+{/*         <Image
           src="/logo.png"
           alt="Chas Academy studentkår"
           width={1051}
           height={958}
           className="h-32 w-auto sm:h-40"
-        />
+        /> */}
         <p className="mt-6 text-sm font-semibold uppercase tracking-widest text-chas-blue dark:text-chas-cyan">
           Chas Academy
         </p>
