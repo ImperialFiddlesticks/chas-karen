@@ -29,10 +29,10 @@ export default function Header() {
             alt="Chas Academy studentkår"
             width={1051}
             height={958}
-            className="h-9 w-auto"
+            className="h-14 w-auto"
             priority
           />
-          Chas Studentkår
+          {/* Chas Studentkår */}
         </Link>
 
         <nav className="hidden items-center gap-8 text-sm font-medium sm:flex">

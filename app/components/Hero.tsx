@@ -4,7 +4,8 @@ import ColorStripe from "./ColorStripe";
 
 export default function Hero() {
   return (
-    <section className="relative isolate flex min-h-[70vh] items-center overflow-hidden">
+    // 4rem = Header's h-16, so Header + Hero together fill exactly one screen.
+    <section className="relative isolate flex h-[calc(100dvh-4rem)] items-center overflow-hidden">
       <Image
         src="/chasbackgroundnarrow.png"
         alt=""
@@ -16,14 +17,14 @@ export default function Hero() {
       />
       <div className="absolute inset-0 -z-10 bg-linear-to-r from-background/85 via-background/50 to-transparent lg:bg-[linear-gradient(to_right,color-mix(in_oklab,var(--background)_85%,transparent)_28rem,color-mix(in_oklab,var(--background)_50%,transparent)_40rem,transparent_52rem)]" />
 
-      <div className="w-full px-6 py-24 sm:px-12 lg:px-20">
-        <Image
+      <div className="w-full px-6 sm:px-12 lg:px-20">
+{/*         <Image
           src="/logo.png"
           alt="Chas Academy studentkår"
           width={1051}
           height={958}
-          className="h-24 w-auto"
-        />
+          className="h-32 w-auto sm:h-40"
+        /> */}
         <p className="mt-6 text-sm font-semibold uppercase tracking-widest text-chas-blue dark:text-chas-cyan">
           Chas Academy
         </p>
@@ -31,8 +32,7 @@ export default function Hero() {
           Chas Studentkår
         </h1>
         <p className="mt-6 max-w-xl text-lg leading-8 text-zinc-700 dark:text-zinc-300">
-          Grattis, du har hittat till Chas Academy, Sveriges främsta IT-skola
-          och hem för vår enastående studentkår. Som medlem blir du en del av
+          Grattis, du har hittat hem till Chas Academy enastående studentkår. Som medlem blir du en del av
           det pulserande studentlivet.
         </p>
         <div className="mt-10 flex flex-col gap-4 sm:flex-row">
