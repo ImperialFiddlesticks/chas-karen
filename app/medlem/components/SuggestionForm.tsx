@@ -5,7 +5,6 @@ import {
   sendSuggestion,
   type SuggestionState,
 } from "../(members)/forslag/actions";
-import { CATEGORIES } from "@/lib/suggestion-categories";
 
 const initialState: SuggestionState = { status: "idle", message: "" };
 

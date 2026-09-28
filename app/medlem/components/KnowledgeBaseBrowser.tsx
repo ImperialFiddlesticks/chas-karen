@@ -1,14 +1,21 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import type { Category, ResourceType } from "@/lib/knowledge-base";
+import type { Category, ResourceLevel, ResourceType } from "@/lib/knowledge-base";
 
 const TYPE_LABELS: Record<ResourceType, string> = {
   artikel: "Artikel",
   video: "Video",
   verktyg: "Verktyg",
   kurs: "Kurs",
+  dokumentation: "Dokumentation",
+  övning: "Övning",
   övrigt: "Övrigt",
+};
+
+const LEVEL_LABELS: Record<ResourceLevel, string> = {
+  nybörjare: "Nybörjare",
+  fördjupning: "Fördjupning",
 };
 
 const inputClass =
@@ -29,24 +36,24 @@ export default function KnowledgeBaseBrowser({
 }) {
   const [query, setQuery] = useState("");
   const [activeCategory, setActiveCategory] = useState<string>("alla");
-  const [activeSubcategory, setActiveSubcategory] = useState<string>("alla");
+  const [activeLevel, setActiveLevel] = useState<string>("alla");
 
-  const subcategories = useMemo(() => {
+  const levels = useMemo(() => {
     if (activeCategory === "alla") return [];
     const category = categories.find((c) => c.id === activeCategory);
     if (!category) return [];
     return Array.from(
       new Set(
         category.links
-          .map((resource) => resource.subcategory)
-          .filter((value): value is string => Boolean(value)),
+          .map((resource) => resource.level)
+          .filter((value): value is ResourceLevel => Boolean(value)),
       ),
     ).sort((a, b) => a.localeCompare(b, "sv"));
   }, [categories, activeCategory]);
 
   function selectCategory(id: string) {
     setActiveCategory(id);
-    setActiveSubcategory("alla");
+    setActiveLevel("alla");
   }
 
   const filtered = useMemo(() => {
@@ -62,8 +69,8 @@ export default function KnowledgeBaseBrowser({
         links: category.links.filter((resource) => {
           if (
             activeCategory !== "alla" &&
-            activeSubcategory !== "alla" &&
-            resource.subcategory !== activeSubcategory
+            activeLevel !== "alla" &&
+            resource.level !== activeLevel
           ) {
             return false;
           }
@@ -71,12 +78,15 @@ export default function KnowledgeBaseBrowser({
           return (
             resource.title.toLowerCase().includes(normalizedQuery) ||
             resource.description?.toLowerCase().includes(normalizedQuery) ||
+            resource.tags?.some((tag) =>
+              tag.toLowerCase().includes(normalizedQuery),
+            ) ||
             domainOf(resource.url).toLowerCase().includes(normalizedQuery)
           );
         }),
       }))
       .filter((category) => category.links.length > 0);
-  }, [categories, query, activeCategory, activeSubcategory]);
+  }, [categories, query, activeCategory, activeLevel]);
 
   return (
     <div>
@@ -119,31 +129,31 @@ export default function KnowledgeBaseBrowser({
         </div>
       </div>
 
-      {subcategories.length > 0 && (
+      {levels.length > 0 && (
         <div className="mt-4 flex flex-wrap gap-2">
           <button
             type="button"
-            onClick={() => setActiveSubcategory("alla")}
+            onClick={() => setActiveLevel("alla")}
             className={`rounded-full px-3 py-1.5 text-xs font-medium transition ${
-              activeSubcategory === "alla"
+              activeLevel === "alla"
                 ? "bg-chas-navy text-white dark:bg-white dark:text-chas-navy"
                 : "border border-black/15 text-zinc-600 dark:border-white/20 dark:text-zinc-300"
             }`}
           >
-            Alla underkategorier
+            Alla nivåer
           </button>
-          {subcategories.map((subcategory) => (
+          {levels.map((level) => (
             <button
-              key={subcategory}
+              key={level}
               type="button"
-              onClick={() => setActiveSubcategory(subcategory)}
+              onClick={() => setActiveLevel(level)}
               className={`rounded-full px-3 py-1.5 text-xs font-medium transition ${
-                activeSubcategory === subcategory
+                activeLevel === level
                   ? "bg-chas-navy text-white dark:bg-white dark:text-chas-navy"
                   : "border border-black/15 text-zinc-600 dark:border-white/20 dark:text-zinc-300"
               }`}
             >
-              {subcategory}
+              {LEVEL_LABELS[level]}
             </button>
           ))}
         </div>
