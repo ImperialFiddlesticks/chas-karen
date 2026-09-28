@@ -32,7 +32,11 @@ export default function Header() {
             <a
               key={link.href}
               href={link.href}
-              className="text-zinc-300 transition-colors hover:text-chas-orange"
+              className={
+                link.href === "/medlem"
+                  ? "rounded-full border border-chas-cyan px-3 py-1 text-chas-cyan transition-colors hover:bg-chas-cyan hover:text-chas-navy"
+                  : "text-zinc-300 transition-colors hover:text-chas-orange"
+              }
             >
               {link.label}
             </a>
@@ -81,7 +85,11 @@ export default function Header() {
               key={link.href}
               href={link.href}
               onClick={() => setMenuOpen(false)}
-              className="rounded-md px-2 py-2 text-sm font-medium text-zinc-300 hover:bg-white/8 hover:text-chas-orange"
+              className={
+                link.href === "/medlem"
+                  ? "rounded-md border border-chas-cyan px-2 py-2 text-sm font-medium text-chas-cyan hover:bg-chas-cyan hover:text-chas-navy"
+                  : "rounded-md px-2 py-2 text-sm font-medium text-zinc-300 hover:bg-white/8 hover:text-chas-orange"
+              }
             >
               {link.label}
             </a>
