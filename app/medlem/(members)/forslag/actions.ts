@@ -3,7 +3,6 @@
 import { cookies } from "next/headers";
 import { Resend } from "resend";
 import { MEMBER_COOKIE_NAME, isMember } from "@/lib/member-auth";
-import { CATEGORIES, type SuggestionCategory } from "@/lib/suggestion-categories";
 
 export type SuggestionState = {
   status: "idle" | "success" | "error";
@@ -52,9 +51,6 @@ export async function sendSuggestion(
   if (!fields.suggestion) errors.suggestion = "Skriv ditt förslag.";
   else if (fields.suggestion.length > 2000)
     errors.suggestion = "Förslaget är för långt (max 2000 tecken).";
-
-  if (!CATEGORIES.includes(fields.category as SuggestionCategory))
-    errors.category = "Välj en kategori.";
 
   if (fields.email && !EMAIL_PATTERN.test(fields.email))
     errors.email = "Ange en giltig e-postadress, eller lämna fältet tomt.";

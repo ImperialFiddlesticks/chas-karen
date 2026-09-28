@@ -1,16 +1,23 @@
 import kunskapsbank from "./kunskapsbank.json";
 
-export type ResourceType = "artikel" | "video" | "verktyg" | "kurs" | "övrigt";
+export type ResourceType =
+  | "artikel"
+  | "video"
+  | "verktyg"
+  | "kurs"
+  | "dokumentation"
+  | "övning"
+  | "övrigt";
+
+export type ResourceLevel = "nybörjare" | "fördjupning";
 
 export type Resource = {
   title: string;
   url: string;
   description?: string;
   type: ResourceType;
-  // Present on entries extracted from the Notion export; used to filter
-  // within a category. Not part of the original spec, so kept optional.
-  subcategory?: string;
-  source?: string;
+  level?: ResourceLevel;
+  tags?: string[];
 };
 
 export type Category = {
@@ -23,9 +30,11 @@ export type Category = {
 type RawResource = {
   title: string;
   url: string;
-  type: ResourceType;
-  subcategory: string;
-  source: string;
+  description: string;
+  level: ResourceLevel;
+  format: ResourceType;
+  tags: string[];
+  addedAt: string;
 };
 
 type RawCategory = {
@@ -44,8 +53,9 @@ export const KNOWLEDGE_BASE: Category[] = raw.categories.map((category) => ({
   links: category.links.map((link) => ({
     title: link.title,
     url: link.url,
-    type: link.type,
-    subcategory: link.subcategory,
-    source: link.source,
+    description: link.description,
+    type: link.format,
+    level: link.level,
+    tags: link.tags,
   })),
 }));

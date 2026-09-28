@@ -2,7 +2,6 @@ import Image from "next/image";
 import Link from "next/link";
 import ColorStripe from "./ColorStripe";
 import SocialLinks from "./SocialLinks";
-import { NAV_LINKS } from "@/lib/nav-links";
 
 export default function Footer() {
   return (
@@ -10,7 +9,10 @@ export default function Footer() {
       <ColorStripe />
 
       <div className="mx-auto flex max-w-6xl flex-col gap-6 px-6 py-10 sm:flex-row sm:items-center sm:justify-between">
-        <Link href="/" className="flex items-center gap-2">
+        <Link
+          href="/"
+          className="flex items-center gap-2"
+        >
           <Image
             src="/logo.png"
             alt="Chas Academy studentkår"
@@ -20,7 +22,7 @@ export default function Footer() {
           />
         </Link>
 
- {/*        <nav className="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm font-medium">
+        {/*        <nav className="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm font-medium">
           {NAV_LINKS.map((link) => (
             <a
               key={link.href}
