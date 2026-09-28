@@ -13,6 +13,7 @@ services:
       NODE_ENV: production
       RESEND_API_KEY: ${RESEND_API_KEY:?RESEND_API_KEY must be set (see .env.example)}
       CONTACT_TO_EMAIL: ${CONTACT_TO_EMAIL:?CONTACT_TO_EMAIL must be set (see .env.example)}
+      MEMBER_PASSWORD: ${MEMBER_PASSWORD:?MEMBER_PASSWORD must be set (see .env.example)}
     healthcheck:
       test:
         [
