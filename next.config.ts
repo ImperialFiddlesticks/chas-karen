@@ -1,7 +1,16 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  async redirects() {
+    return [
+      // The board page moved into "Om föreningen".
+      {
+        source: "/styrelsen",
+        destination: "/om-foreningen",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;
