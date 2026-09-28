@@ -20,7 +20,7 @@ export default function Footer() {
           />
         </Link>
 
-        <nav className="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm font-medium">
+ {/*        <nav className="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm font-medium">
           {NAV_LINKS.map((link) => (
             <a
               key={link.href}
@@ -30,7 +30,7 @@ export default function Footer() {
               {link.label}
             </a>
           ))}
-        </nav>
+        </nav> */}
 
         <SocialLinks />
 

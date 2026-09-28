@@ -5,4 +5,5 @@ export const NAV_LINKS = [
   { href: "/om-foreningen", label: "Om Kåren" },
   { href: "/medlemskap", label: "Medlemskap" },
   { href: "/kontakt", label: "Kontakt" },
+  { href: "/medlem", label: "Medlemsida🔒" },
 ];

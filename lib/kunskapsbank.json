@@ -1,0 +1,4331 @@
+{
+  "_info": "Extraherat automatiskt ur Notion-exporten 'Kunskaps-DB' (2026-09-28). Avsnittet XR Design Resources är uteslutet. Bilder och dubbletter är borttagna. Ej granskat manuellt.",
+  "categories": [
+    {
+      "id": "webbutveckling",
+      "title": "Webbutveckling",
+      "description": "",
+      "links": [
+        {
+          "title": "css-tricks.com",
+          "url": "https://css-tricks.com/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > ❗Great resources"
+        },
+        {
+          "title": "alistapart.com/css",
+          "url": "https://alistapart.com/blog/topic/css/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > ❗Great resources"
+        },
+        {
+          "title": "tailwindcss.com",
+          "url": "https://tailwindcss.com/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Frameworks"
+        },
+        {
+          "title": "css-tricks.com/a-guide-to-flexbox",
+          "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Guides and tools"
+        },
+        {
+          "title": "semicolon.dev/complete-css-flex-tutorial",
+          "url": "https://semicolon.dev/tutorial/css/complete-css-flex-tutorial",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Guides and tools"
+        },
+        {
+          "title": "Button animations",
+          "url": "https://dev.to/afif/100-more-underline-overlay-animations-the-upgraded-css-collection-4c25",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Animations"
+        },
+        {
+          "title": "Cubic Bezier",
+          "url": "https://cubic-bezier.com/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Animations"
+        },
+        {
+          "title": "3D transforms with Webflow",
+          "url": "http://3d-transforms.webflow.com/#intro",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Animations"
+        },
+        {
+          "title": "csszengarden.com",
+          "url": "http://www.csszengarden.com/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Examples"
+        },
+        {
+          "title": "fontsquirrel.com",
+          "url": "https://www.fontsquirrel.com/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Fonts to use"
+        },
+        {
+          "title": "fonts.google.com",
+          "url": "https://fonts.google.com/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Fonts to use"
+        },
+        {
+          "title": "fonts.adobe.com/fonts",
+          "url": "https://fonts.adobe.com/fonts",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Fonts to use"
+        },
+        {
+          "title": "fonts.com",
+          "url": "https://www.fonts.com/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Fonts to use"
+        },
+        {
+          "title": "cssfontstack.com",
+          "url": "https://www.cssfontstack.com/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Web safe fonts"
+        },
+        {
+          "title": "w3schools.com/colors_hex.asp",
+          "url": "https://www.w3schools.com/colors/colors_hex.asp",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Colors"
+        },
+        {
+          "title": "codepen.io/Pjoqqp",
+          "url": "https://codepen.io/sosuke/pen/Pjoqqp",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Colors"
+        },
+        {
+          "title": "Cloudflare",
+          "url": "https://color.cloudflare.design/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Colors"
+        },
+        {
+          "title": "css-tricks.com/a-complete-guide-to-css-gradients",
+          "url": "https://css-tricks.com/a-complete-guide-to-css-gradients/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Gradients"
+        },
+        {
+          "title": "projects.verou.me/css3patterns",
+          "url": "https://projects.verou.me/css3patterns/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Patterns"
+        },
+        {
+          "title": "gradientbuttons.colorion.co",
+          "url": "https://gradientbuttons.colorion.co/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Buttons"
+        },
+        {
+          "title": "uigradients.com",
+          "url": "https://uigradients.com/#JuicyOrange",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > 📦 Cool gradients"
+        },
+        {
+          "title": "getcssscan.com/css-box-shadow-examples",
+          "url": "https://getcssscan.com/css-box-shadow-examples",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Shadows"
+        },
+        {
+          "title": "learningwebdesign.com/LWD5_FloatLayout.pdf",
+          "url": "https://learningwebdesign.com/articles/LWD5_FloatLayout.pdf",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Layout"
+        },
+        {
+          "title": "flexbox.io",
+          "url": "https://flexbox.io/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Flexbox"
+        },
+        {
+          "title": "codepen.io/adLPwv",
+          "url": "https://codepen.io/enxaneta/full/adLPwv",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Flexbox"
+        },
+        {
+          "title": "the-echoplex.net/flexyboxes",
+          "url": "https://the-echoplex.net/flexyboxes/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Flexbox"
+        },
+        {
+          "title": "zachgollwitzer.com/10-flexbox-crash-course",
+          "url": "https://www.zachgollwitzer.com/posts/2021/fullstack-developer-series/10-flexbox-crash-course/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Flexbox"
+        },
+        {
+          "title": "samanthaming.com/flexbox30",
+          "url": "https://www.samanthaming.com/flexbox30/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Flexbox"
+        },
+        {
+          "title": "labs.jensimmons.com",
+          "url": "https://labs.jensimmons.com/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Grid"
+        },
+        {
+          "title": "gridbyexample.com",
+          "url": "https://gridbyexample.com/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Grid"
+        },
+        {
+          "title": "webkit.org/css-grid-layout-a-new-layout-module-for-the-web",
+          "url": "https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Grid"
+        },
+        {
+          "title": "jst.hashnode.dev/css-grid-tutorial",
+          "url": "https://jst.hashnode.dev/css-grid-tutorial",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Grid"
+        },
+        {
+          "title": "w3schools.com/css_rwd_intro.asp",
+          "url": "https://www.w3schools.com/css/css_rwd_intro.asp",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Responsive Web Design (RWD)"
+        },
+        {
+          "title": "screensiz.es",
+          "url": "https://screensiz.es/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Responsive Web Design (RWD)"
+        },
+        {
+          "title": "lukew.com/entry.asp",
+          "url": "https://www.lukew.com/ff/entry.asp?1514",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Responsive Web Design (RWD)"
+        },
+        {
+          "title": "bradfrost.github.io/patterns.html",
+          "url": "https://bradfrost.github.io/this-is-responsive/patterns.html",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Responsive Web Design (RWD)"
+        },
+        {
+          "title": "medium.com/get-started-with-variable-fonts-c055fd73ecd7",
+          "url": "https://medium.com/@clagnut/get-started-with-variable-fonts-c055fd73ecd7#:~:text=As%20with%20regular%20OpenType%20fonts,%2Dvariations%20or%20truetype%2Dvariations%20",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Responsive Web Design (RWD)"
+        },
+        {
+          "title": "bradfrost.com/responsive-nav-patterns",
+          "url": "https://bradfrost.com/blog/post/responsive-nav-patterns/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Responsive Web Design (RWD)"
+        },
+        {
+          "title": "responsivenavigation.net",
+          "url": "https://responsivenavigation.net/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Responsive Web Design (RWD)"
+        },
+        {
+          "title": "Responsive Resources",
+          "url": "https://bradfrost.github.io/this-is-responsive/resources.html",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Responsive Web Design (RWD)"
+        },
+        {
+          "title": "coder-coder.com/background-image-opacity",
+          "url": "https://coder-coder.com/background-image-opacity/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Images"
+        },
+        {
+          "title": "rattibha.com/1392799793135693825",
+          "url": "https://rattibha.com/thread/1392799793135693825",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Borders"
+        },
+        {
+          "title": "mediaqueri.es",
+          "url": "https://mediaqueri.es/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Media Queries"
+        },
+        {
+          "title": "CSS reset",
+          "url": "https://meyerweb.com/eric/tools/css/reset/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Reset styles"
+        },
+        {
+          "title": "Normalize.css",
+          "url": "https://necolas.github.io/normalize.css/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Reset styles"
+        },
+        {
+          "title": "Reboot, Resets, and Reasoning",
+          "url": "https://css-tricks.com/reboot-resets-reasoning/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Reset styles"
+        },
+        {
+          "title": "CSS sprites",
+          "url": "https://css-tricks.com/css-sprites/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Reducing HTTP reuqests"
+        },
+        {
+          "title": "Modernizr",
+          "url": "https://modernizr.com/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Browser support (CSS, HTML, JavaScript)"
+        },
+        {
+          "title": "Deconfusing Pre- and Post-processing",
+          "url": "https://medium.com/@ddprrt/deconfusing-pre-and-post-processing-d68e3bd078a3",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Pre- and Post-processors (and CSS authoring frameworks)"
+        },
+        {
+          "title": "Sass",
+          "url": "https://sass-lang.com/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Pre-processors"
+        },
+        {
+          "title": "Stylus",
+          "url": "https://stylus-lang.com/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Pre-processors"
+        },
+        {
+          "title": "Compass (works well with SASS)",
+          "url": "http://compass-style.org/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > CSS authoring frameworks"
+        },
+        {
+          "title": "Autoprefixer",
+          "url": "https://github.com/postcss/autoprefixer",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Post-processors"
+        },
+        {
+          "title": "PostCSS",
+          "url": "https://postcss.org/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Post-processors"
+        },
+        {
+          "title": "PostCSS.parts",
+          "url": "https://www.postcss.parts/",
+          "type": "övrigt",
+          "subcategory": "Css",
+          "source": "Web dev resource > Css > Post-processors"
+        },
+        {
+          "title": "matuzo.at/html-boilerplate",
+          "url": "https://www.matuzo.at/blog/html-boilerplate/",
+          "type": "övrigt",
+          "subcategory": "Html",
+          "source": "Web dev resource > Html > Boilerplates"
+        },
+        {
+          "title": "css-tricks.com/a-complete-guide-to-svg-fallbacks",
+          "url": "https://css-tricks.com/a-complete-guide-to-svg-fallbacks/",
+          "type": "övrigt",
+          "subcategory": "Html",
+          "source": "Web dev resource > Html > Images"
+        },
+        {
+          "title": "responsiveimages.org",
+          "url": "https://responsiveimages.org/",
+          "type": "övrigt",
+          "subcategory": "Html",
+          "source": "Web dev resource > Html > Images"
+        },
+        {
+          "title": "dev.opera.com/responsive-images",
+          "url": "https://dev.opera.com/articles/responsive-images/",
+          "type": "övrigt",
+          "subcategory": "Html",
+          "source": "Web dev resource > Html > Images"
+        },
+        {
+          "title": "developer.mozilla.org/How_to_build_custom_form_controls",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_build_custom_form_controls",
+          "type": "övrigt",
+          "subcategory": "Html",
+          "source": "Web dev resource > Html > Forms"
+        },
+        {
+          "title": "developer.mozilla.org/cross_browser_video_player",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/cross_browser_video_player",
+          "type": "övrigt",
+          "subcategory": "Html",
+          "source": "Web dev resource > Html > Custom video player"
+        },
+        {
+          "title": "Great explanation",
+          "url": "https://stackoverflow.com/questions/4781077/html5-best-practices-section-header-aside-article-elements?rq=1",
+          "type": "övrigt",
+          "subcategory": "Html",
+          "source": "Web dev resource > Html > Sectioning Elements in HTML"
+        },
+        {
+          "title": "How to Section Your HTML",
+          "url": "https://css-tricks.com/how-to-section-your-html/",
+          "type": "övrigt",
+          "subcategory": "Html",
+          "source": "Web dev resource > Html > Sectioning Elements in HTML"
+        },
+        {
+          "title": "w3schools.com/html5_semantic_elements.asp",
+          "url": "https://www.w3schools.com/html/html5_semantic_elements.asp",
+          "type": "övrigt",
+          "subcategory": "Html",
+          "source": "Web dev resource > Html > Sectioning Elements in HTML"
+        },
+        {
+          "title": "developer.mozilla.org/Using_HTML_sections_and_outlines",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines",
+          "type": "övrigt",
+          "subcategory": "Html",
+          "source": "Web dev resource > Html > Sectioning Elements in HTML"
+        },
+        {
+          "title": "Handlebars",
+          "url": "https://handlebarsjs.com/",
+          "type": "övrigt",
+          "subcategory": "Html",
+          "source": "Web dev resource > Html > Templates"
+        },
+        {
+          "title": "gitexplorer.com",
+          "url": "https://gitexplorer.com/",
+          "type": "övrigt",
+          "subcategory": "Git, Github, Gitlab",
+          "source": "Web dev resource > Git, Github, Gitlab > Commands"
+        },
+        {
+          "title": "Git Cheatsheet",
+          "url": "https://ndpsoftware.com/git-cheatsheet.html#loc=workspace;",
+          "type": "övrigt",
+          "subcategory": "Git, Github, Gitlab",
+          "source": "Web dev resource > Git, Github, Gitlab > Commands"
+        },
+        {
+          "title": "GitHub Cheatsheet",
+          "url": "https://education.github.com/git-cheat-sheet-education.pdf",
+          "type": "övrigt",
+          "subcategory": "Git, Github, Gitlab",
+          "source": "Web dev resource > Git, Github, Gitlab > Commands"
+        },
+        {
+          "title": "Visual reference",
+          "url": "https://marklodato.github.io/visual-git-guide/index-en.html",
+          "type": "övrigt",
+          "subcategory": "Git, Github, Gitlab",
+          "source": "Web dev resource > Git, Github, Gitlab > Commands"
+        },
+        {
+          "title": "Syncing",
+          "url": "https://www.atlassian.com/git/tutorials/syncing",
+          "type": "övrigt",
+          "subcategory": "Git, Github, Gitlab",
+          "source": "Web dev resource > Git, Github, Gitlab > Workflow"
+        },
+        {
+          "title": "Understanding the GitHub flow",
+          "url": "https://guides.github.com/introduction/flow/",
+          "type": "övrigt",
+          "subcategory": "Git, Github, Gitlab",
+          "source": "Web dev resource > Git, Github, Gitlab > Workflow"
+        },
+        {
+          "title": "Git flow",
+          "url": "https://docs.gitlab.com/ee/topics/gitlab_flow.html#git-flow-and-its-problems",
+          "type": "övrigt",
+          "subcategory": "Git, Github, Gitlab",
+          "source": "Web dev resource > Git, Github, Gitlab > Workflow"
+        },
+        {
+          "title": "Gitflow Workflow",
+          "url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+          "type": "övrigt",
+          "subcategory": "Git, Github, Gitlab",
+          "source": "Web dev resource > Git, Github, Gitlab > Workflow"
+        },
+        {
+          "title": "Great tutorial by Atlassian",
+          "url": "https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init",
+          "type": "övrigt",
+          "subcategory": "Git, Github, Gitlab",
+          "source": "Web dev resource > Git, Github, Gitlab > Tutorials"
+        },
+        {
+          "title": "stackoverflow.com/git-working-on-wrong-branch-how-to-copy-changes-to-existing-topic-branch",
+          "url": "https://stackoverflow.com/questions/5964118/git-working-on-wrong-branch-how-to-copy-changes-to-existing-topic-branch",
+          "type": "övrigt",
+          "subcategory": "Git, Github, Gitlab",
+          "source": "Web dev resource > Git, Github, Gitlab > Solving problems"
+        },
+        {
+          "title": "Online JavaScript console",
+          "url": "https://jsbin.com/",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript"
+        },
+        {
+          "title": "SQL - Intro to Computer Science - Harvard's CS50 (2018)",
+          "url": "https://www.youtube.com/watch?v=TplT4qjz1RQ",
+          "type": "video",
+          "subcategory": "Sql",
+          "source": "Web dev resource > Sql > SQL Courses"
+        },
+        {
+          "title": "SQL Tutorial - Full Database Course for Beginners",
+          "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+          "type": "video",
+          "subcategory": "Sql",
+          "source": "Web dev resource > Sql > SQL Courses"
+        },
+        {
+          "title": "SQLite online",
+          "url": "https://sqliteonline.com/",
+          "type": "övrigt",
+          "subcategory": "Sql",
+          "source": "Web dev resource > Sql > SQL online practice"
+        },
+        {
+          "title": "w3schools.com/sql_create_index.asp",
+          "url": "https://www.w3schools.com/sql/sql_create_index.asp",
+          "type": "övrigt",
+          "subcategory": "Sql",
+          "source": "Web dev resource > Sql > Indexes"
+        },
+        {
+          "title": "dataschool.com/joins",
+          "url": "https://dataschool.com/learn-sql/joins/",
+          "type": "övrigt",
+          "subcategory": "Sql",
+          "source": "Web dev resource > Sql > Joins"
+        },
+        {
+          "title": "youtu.be/HXV3zeQKqGY",
+          "url": "https://youtu.be/HXV3zeQKqGY?t=14158",
+          "type": "video",
+          "subcategory": "Sql",
+          "source": "Web dev resource > Sql > Converting ER diagrams into database schemas"
+        },
+        {
+          "title": "stackoverflow.com/do-database-transactions-prevent-race-conditions",
+          "url": "https://stackoverflow.com/questions/6477574/do-database-transactions-prevent-race-conditions",
+          "type": "övrigt",
+          "subcategory": "Sql",
+          "source": "Web dev resource > Sql > Race conditions"
+        },
+        {
+          "title": "youtube.com/watch",
+          "url": "https://www.youtube.com/watch?v=TplT4qjz1RQ&t=6264s",
+          "type": "video",
+          "subcategory": "Sql",
+          "source": "Web dev resource > Sql > SQL injection attacks"
+        },
+        {
+          "title": "portswigger.net/sql-injection",
+          "url": "https://portswigger.net/web-security/sql-injection",
+          "type": "övrigt",
+          "subcategory": "Sql",
+          "source": "Web dev resource > Sql > SQL injection attacks"
+        },
+        {
+          "title": "Learning How to Learn: Powerful mental tools to help you master tough subjects",
+          "url": "https://www.coursera.org/learn/learning-how-to-learn",
+          "type": "kurs",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > Tutorials"
+        },
+        {
+          "title": "twitter.com/1438495544872095757",
+          "url": "https://twitter.com/codingyuri/status/1438495544872095757?s=21",
+          "type": "övrigt",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > Tutorials"
+        },
+        {
+          "title": "Learning Web Design companion website",
+          "url": "https://www.learningwebdesign.com/",
+          "type": "övrigt",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > Learning resources"
+        },
+        {
+          "title": "FreeCodeCamp",
+          "url": "https://www.freecodecamp.org/",
+          "type": "kurs",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > Full blown courses"
+        },
+        {
+          "title": "Full Stack open 2021",
+          "url": "https://fullstackopen.com/en/",
+          "type": "övrigt",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > Full blown courses"
+        },
+        {
+          "title": "The Odin Project",
+          "url": "https://www.theodinproject.com/courses/foundations/lessons/introduction-to-web-development",
+          "type": "övrigt",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > Full blown courses"
+        },
+        {
+          "title": "educative.io/react-front-end-developer",
+          "url": "https://www.educative.io/path/react-front-end-developer",
+          "type": "kurs",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > Full blown courses"
+        },
+        {
+          "title": "online-learning.harvard.edu/cs50-introduction-computer-science",
+          "url": "https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0",
+          "type": "övrigt",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > Full blown courses"
+        },
+        {
+          "title": "youtube.com/playlist",
+          "url": "https://youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu",
+          "type": "video",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > Full blown courses"
+        },
+        {
+          "title": "WebGL and Three.JS",
+          "url": "https://threejs-journey.xyz/",
+          "type": "övrigt",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > Full blown courses"
+        },
+        {
+          "title": "Roadmap to becoming a web developer in 2",
+          "url": "https://github.com/kamranahmedse/developer-roadmap",
+          "type": "övrigt",
+          "subcategory": "Roadmaps",
+          "source": "Web dev resource > Roadmaps"
+        },
+        {
+          "title": "Web development GitHub resources",
+          "url": "https://github.com/sadanandpai/frontend-learning-kit",
+          "type": "övrigt",
+          "subcategory": "Roadmaps",
+          "source": "Web dev resource > Roadmaps"
+        },
+        {
+          "title": "devChallenges",
+          "url": "https://devchallenges.io/?fbclid=IwAR0oDi9EYXYM_UOFBGKGu9CZiPx2CvO1eufemZjUklOU9U_zypfcjKHVrWA",
+          "type": "övrigt",
+          "subcategory": "Coding challenges, practice and projects",
+          "source": "Web dev resource > Coding challenges, practice and projects"
+        },
+        {
+          "title": "developer.mozilla.org/Typesetting_a_homepage",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage",
+          "type": "övrigt",
+          "subcategory": "Coding challenges, practice and projects",
+          "source": "Web dev resource > Coding challenges, practice and projects > HTML, CSS and JavaScript"
+        },
+        {
+          "title": "selftaught-dev.com/project-archive",
+          "url": "https://selftaught-dev.com/project-archive",
+          "type": "övrigt",
+          "subcategory": "Coding challenges, practice and projects",
+          "source": "Web dev resource > Coding challenges, practice and projects > HTML, CSS and JavaScript"
+        },
+        {
+          "title": "codepip.com/nester",
+          "url": "https://codepip.com/games/nester/",
+          "type": "övrigt",
+          "subcategory": "Coding challenges, practice and projects",
+          "source": "Web dev resource > Coding challenges, practice and projects > HTML, CSS and JavaScript"
+        },
+        {
+          "title": "codepip.com",
+          "url": "https://codepip.com/",
+          "type": "övrigt",
+          "subcategory": "Coding challenges, practice and projects",
+          "source": "Web dev resource > Coding challenges, practice and projects > HTML, CSS and JavaScript"
+        },
+        {
+          "title": "Codementor.io",
+          "url": "http://codementor.io",
+          "type": "övrigt",
+          "subcategory": "Coding challenges, practice and projects",
+          "source": "Web dev resource > Coding challenges, practice and projects > HTML, CSS and JavaScript"
+        },
+        {
+          "title": "w3schools.com/css_exercises.asp",
+          "url": "https://www.w3schools.com/css/css_exercises.asp",
+          "type": "övrigt",
+          "subcategory": "Coding challenges, practice and projects",
+          "source": "Web dev resource > Coding challenges, practice and projects > CSS only"
+        },
+        {
+          "title": "flukeout.github.io",
+          "url": "https://flukeout.github.io/",
+          "type": "övrigt",
+          "subcategory": "Coding challenges, practice and projects",
+          "source": "Web dev resource > Coding challenges, practice and projects > CSS only"
+        },
+        {
+          "title": "frontendmentor.io/challenges",
+          "url": "https://www.frontendmentor.io/challenges",
+          "type": "övrigt",
+          "subcategory": "Coding challenges, practice and projects",
+          "source": "Web dev resource > Coding challenges, practice and projects > CSS only"
+        },
+        {
+          "title": "flexboxfroggy.com",
+          "url": "https://flexboxfroggy.com/",
+          "type": "övrigt",
+          "subcategory": "Coding challenges, practice and projects",
+          "source": "Web dev resource > Coding challenges, practice and projects > CSS only"
+        },
+        {
+          "title": "codepip.com/grid-garden",
+          "url": "https://codepip.com/games/grid-garden/",
+          "type": "övrigt",
+          "subcategory": "Coding challenges, practice and projects",
+          "source": "Web dev resource > Coding challenges, practice and projects > CSS only"
+        },
+        {
+          "title": "thanaverage.xyz",
+          "url": "https://thanaverage.xyz/",
+          "type": "övrigt",
+          "subcategory": "Coding challenges, practice and projects",
+          "source": "Web dev resource > Coding challenges, practice and projects > Projects"
+        },
+        {
+          "title": "theodinproject.com/gearing-up",
+          "url": "https://www.theodinproject.com/courses/foundations/lessons/gearing-up",
+          "type": "övrigt",
+          "subcategory": "Mindset ⭐️",
+          "source": "Web dev resource > Mindset ⭐️ > USE IN CASE OF EMERGENCY"
+        },
+        {
+          "title": "udemy.com/22648347",
+          "url": "https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648347#questions",
+          "type": "kurs",
+          "subcategory": "Mindset ⭐️",
+          "source": "Web dev resource > Mindset ⭐️ > How to succeed at learning to code"
+        },
+        {
+          "title": "Repository of public APIs",
+          "url": "https://github.com/public-apis/public-apis",
+          "type": "övrigt",
+          "subcategory": "APIs",
+          "source": "Web dev resource > APIs"
+        },
+        {
+          "title": "Star Wars API (SWAPI)",
+          "url": "https://swapi.dev/documentation",
+          "type": "övrigt",
+          "subcategory": "APIs",
+          "source": "Web dev resource > APIs"
+        },
+        {
+          "title": "twitter.com/1437640695255379968",
+          "url": "https://twitter.com/tdinh_me/status/1437640695255379968?s=21",
+          "type": "övrigt",
+          "subcategory": "Apps and tools",
+          "source": "Web dev resource > Apps and tools > Design"
+        },
+        {
+          "title": "Grunt",
+          "url": "https://gruntjs.com/",
+          "type": "övrigt",
+          "subcategory": "Build tools (task runners, automation)",
+          "source": "Web dev resource > Build tools (task runners, automation) > Task runners"
+        },
+        {
+          "title": "Gulp",
+          "url": "https://gulpjs.com/",
+          "type": "övrigt",
+          "subcategory": "Build tools (task runners, automation)",
+          "source": "Web dev resource > Build tools (task runners, automation) > Task runners"
+        },
+        {
+          "title": "WebPack",
+          "url": "https://webpack.js.org/",
+          "type": "övrigt",
+          "subcategory": "Build tools (task runners, automation)",
+          "source": "Web dev resource > Build tools (task runners, automation) > Task runners"
+        },
+        {
+          "title": "twitter.com/1438027601612656640",
+          "url": "https://twitter.com/sumusiriwardana/status/1438027601612656640?s=21",
+          "type": "övrigt",
+          "subcategory": "Code practice",
+          "source": "Web dev resource > Code practice"
+        },
+        {
+          "title": "Formik",
+          "url": "https://formik.org/",
+          "type": "övrigt",
+          "subcategory": "Libraries",
+          "source": "Web dev resource > Libraries > React"
+        },
+        {
+          "title": "react-query.tanstack.com",
+          "url": "https://react-query.tanstack.com/",
+          "type": "övrigt",
+          "subcategory": "Libraries",
+          "source": "Web dev resource > Libraries > React"
+        },
+        {
+          "title": "React Select",
+          "url": "https://react-select.com/home",
+          "type": "övrigt",
+          "subcategory": "Libraries",
+          "source": "Web dev resource > Libraries > React"
+        },
+        {
+          "title": "Chakra UI",
+          "url": "https://chakra-ui.com/guides/integrations/with-cra",
+          "type": "övrigt",
+          "subcategory": "Libraries",
+          "source": "Web dev resource > Libraries > UI"
+        },
+        {
+          "title": "Daisy UI",
+          "url": "https://daisyui.com/docs/install",
+          "type": "övrigt",
+          "subcategory": "Libraries",
+          "source": "Web dev resource > Libraries > UI"
+        },
+        {
+          "title": "carlrippon.com/upgrading-npm-dependencies",
+          "url": "https://www.carlrippon.com/upgrading-npm-dependencies/",
+          "type": "övrigt",
+          "subcategory": "npm",
+          "source": "Web dev resource > npm > Updating dependencies"
+        },
+        {
+          "title": "animista.net/text-pop-up-top",
+          "url": "https://animista.net/play/text/pop-up/text-pop-up-top",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Animations"
+        },
+        {
+          "title": "animejs.com",
+          "url": "https://animejs.com/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Animations"
+        },
+        {
+          "title": "codemyui.com/click-animation",
+          "url": "https://codemyui.com/tag/click-animation/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Animations"
+        },
+        {
+          "title": "minimamente.com/magic",
+          "url": "https://www.minimamente.com/project/magic/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Animations"
+        },
+        {
+          "title": "vivify.mkcreative.cz",
+          "url": "http://vivify.mkcreative.cz/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Animations"
+        },
+        {
+          "title": "css-tricks.com/css-animation-libraries",
+          "url": "https://css-tricks.com/css-animation-libraries/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Animations"
+        },
+        {
+          "title": "animate.style",
+          "url": "https://animate.style/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Animations"
+        },
+        {
+          "title": "ianlunn.github.io/Hover",
+          "url": "https://ianlunn.github.io/Hover/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Animations"
+        },
+        {
+          "title": "shakrmedia.github.io/tuesday",
+          "url": "https://shakrmedia.github.io/tuesday/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Animations"
+        },
+        {
+          "title": "tholman.com/obnoxious",
+          "url": "https://tholman.com/obnoxious/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Animations"
+        },
+        {
+          "title": "loading.io/css",
+          "url": "https://loading.io/css/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Loaders / Spinners"
+        },
+        {
+          "title": "svgartista.net",
+          "url": "https://svgartista.net/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > SVG"
+        },
+        {
+          "title": "CSSGradients",
+          "url": "https://cssgradient.io/gradient-backgrounds/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Gradients and colours"
+        },
+        {
+          "title": "Name that colour",
+          "url": "https://chir.ag/projects/name-that-color/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Gradients and colours"
+        },
+        {
+          "title": "css-tricks.com/a-few-background-patterns-sites",
+          "url": "https://css-tricks.com/a-few-background-patterns-sites/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Background patterns"
+        },
+        {
+          "title": "heropatterns.com",
+          "url": "http://www.heropatterns.com/",
+          "type": "övrigt",
+          "subcategory": "Online resources",
+          "source": "Web dev resource > Online resources > Background patterns"
+        },
+        {
+          "title": "axios",
+          "url": "https://www.npmjs.com/package/axios",
+          "type": "övrigt",
+          "subcategory": "Packages",
+          "source": "Web dev resource > Packages > npm packages"
+        },
+        {
+          "title": "hamburger-react.netlify.app",
+          "url": "https://hamburger-react.netlify.app/",
+          "type": "övrigt",
+          "subcategory": "Packages",
+          "source": "Web dev resource > Packages > npm packages"
+        },
+        {
+          "title": "classnames",
+          "url": "https://www.npmjs.com/package/classnames",
+          "type": "övrigt",
+          "subcategory": "Packages",
+          "source": "Web dev resource > Packages > npm packages"
+        },
+        {
+          "title": "lodash",
+          "url": "https://www.npmjs.com/package/lodash",
+          "type": "övrigt",
+          "subcategory": "Packages",
+          "source": "Web dev resource > Packages > npm packages"
+        },
+        {
+          "title": "lodash.com/4.17.15",
+          "url": "https://lodash.com/docs/4.17.15",
+          "type": "övrigt",
+          "subcategory": "Packages",
+          "source": "Web dev resource > Packages > npm packages"
+        },
+        {
+          "title": "react-tooltip",
+          "url": "https://www.npmjs.com/package/react-tooltip/v/2.0.1",
+          "type": "övrigt",
+          "subcategory": "Packages",
+          "source": "Web dev resource > Packages > npm packages"
+        },
+        {
+          "title": "wwayne.github.io/react-tooltip",
+          "url": "https://wwayne.github.io/react-tooltip/",
+          "type": "övrigt",
+          "subcategory": "Packages",
+          "source": "Web dev resource > Packages > npm packages"
+        },
+        {
+          "title": "udemy.com/22649161",
+          "url": "https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22649161#content",
+          "type": "kurs",
+          "subcategory": "Project planning and checklists",
+          "source": "Web dev resource > Project planning and checklists > Project planning"
+        },
+        {
+          "title": "Validator.nu",
+          "url": "https://html5.validator.nu/",
+          "type": "övrigt",
+          "subcategory": "Validators and browser compatibility",
+          "source": "Web dev resource > Validators and browser compatibility > Validators"
+        },
+        {
+          "title": "validator.w3.org",
+          "url": "https://validator.w3.org/#validate_by_upload+with_options",
+          "type": "övrigt",
+          "subcategory": "Validators and browser compatibility",
+          "source": "Web dev resource > Validators and browser compatibility > Validators"
+        },
+        {
+          "title": "jigsaw.w3.org/css-validator",
+          "url": "https://jigsaw.w3.org/css-validator/#validate-by-input",
+          "type": "övrigt",
+          "subcategory": "Validators and browser compatibility",
+          "source": "Web dev resource > Validators and browser compatibility > Validators"
+        },
+        {
+          "title": "csslint.net",
+          "url": "http://csslint.net/",
+          "type": "övrigt",
+          "subcategory": "Validators and browser compatibility",
+          "source": "Web dev resource > Validators and browser compatibility > Validators"
+        },
+        {
+          "title": "stylelint.io",
+          "url": "https://stylelint.io/",
+          "type": "övrigt",
+          "subcategory": "Validators and browser compatibility",
+          "source": "Web dev resource > Validators and browser compatibility > Validators"
+        },
+        {
+          "title": "PostCSS sort",
+          "url": "https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-postcss-sorting",
+          "type": "verktyg",
+          "subcategory": "Validators and browser compatibility",
+          "source": "Web dev resource > Validators and browser compatibility > Validators"
+        },
+        {
+          "title": "dev.to/automate-sorting-declarations-in-just-4-steps-49p4",
+          "url": "https://dev.to/josebmendozam/automate-sorting-declarations-in-just-4-steps-49p4",
+          "type": "övrigt",
+          "subcategory": "Validators and browser compatibility",
+          "source": "Web dev resource > Validators and browser compatibility > Validators"
+        },
+        {
+          "title": "purgecss.com/CLI.html",
+          "url": "https://purgecss.com/CLI.html#usage",
+          "type": "övrigt",
+          "subcategory": "Validators and browser compatibility",
+          "source": "Web dev resource > Validators and browser compatibility > Validators"
+        },
+        {
+          "title": "marketplace.visualstudio.com/items",
+          "url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint",
+          "type": "verktyg",
+          "subcategory": "Validators and browser compatibility",
+          "source": "Web dev resource > Validators and browser compatibility > Validators"
+        },
+        {
+          "title": "quirksmode.org",
+          "url": "https://www.quirksmode.org/",
+          "type": "övrigt",
+          "subcategory": "Validators and browser compatibility",
+          "source": "Web dev resource > Validators and browser compatibility > Browser compatibility"
+        },
+        {
+          "title": "caniuse.com",
+          "url": "https://caniuse.com/",
+          "type": "övrigt",
+          "subcategory": "Validators and browser compatibility",
+          "source": "Web dev resource > Validators and browser compatibility > Browser compatibility"
+        },
+        {
+          "title": "gridbyexample.com/browsers",
+          "url": "https://gridbyexample.com/browsers/",
+          "type": "övrigt",
+          "subcategory": "Validators and browser compatibility",
+          "source": "Web dev resource > Validators and browser compatibility > CSS browser suport"
+        },
+        {
+          "title": "autoprefixer.github.io",
+          "url": "https://autoprefixer.github.io/",
+          "type": "övrigt",
+          "subcategory": "Validators and browser compatibility",
+          "source": "Web dev resource > Validators and browser compatibility > CSS browser compatibility generators (prefix-ers)"
+        },
+        {
+          "title": "Live Server",
+          "url": "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer",
+          "type": "verktyg",
+          "subcategory": "VSCode",
+          "source": "Web dev resource > VSCode > Extensions"
+        },
+        {
+          "title": "following these guidelines",
+          "url": "https://gitlab.com/help/user/project/merge_requests/reviews/index.md#checkout-merge-requests-locally-through-the-head-ref",
+          "type": "övrigt",
+          "subcategory": "Git, Github, Gitlab",
+          "source": "Web dev resource > Git, Github, Gitlab > GitLab workflow > Check out, review, and merge locally"
+        },
+        {
+          "title": "Ecma International",
+          "url": "http://www.ecma-international.org/",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > JS 1.1 JavaScript / ECMAScript"
+        },
+        {
+          "title": "SetMutableBinding()",
+          "url": "http://www.ecma-international.org/ecma-262/6.0/#sec-declarative-environment-records-setmutablebinding-n-v-s",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > const creates immutable variables"
+        },
+        {
+          "title": "freezing it",
+          "url": "http://speakingjs.com/es5/ch17.html#freezing_objects",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > Pitfall: const does not make the value immutable"
+        },
+        {
+          "title": "global object",
+          "url": "http://speakingjs.com/es5/ch16.html#global_object",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > The global object"
+        },
+        {
+          "title": "Here’s why",
+          "url": "https://zellwk.com/blog/copy-properties-of-one-object-to-another-object/",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > Declaring properties and methods with Constructors"
+        },
+        {
+          "title": "a tool",
+          "url": "https://zellwk.com/blog/creating-a-deep-assign-library/",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > Declaring properties and methods with Constructors"
+        },
+        {
+          "title": "this article",
+          "url": "https://css-tricks.com/javascript-scope-closures/",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > Encapsulation"
+        },
+        {
+          "title": "I recommend you use let or const",
+          "url": "https://zellwk.com/blog/es6/#let-and-const",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > Simple Encapsulation"
+        },
+        {
+          "title": "The syntax is easier to read.",
+          "url": "https://zellwk.com/blog/why-use-getter-and-setter-functions/",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > Private Members with Classes"
+        },
+        {
+          "title": "in a simple function context",
+          "url": "https://zellwk.com/blog/this/#this-in-a-simple-function",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > Second this gotcha"
+        },
+        {
+          "title": "this video",
+          "url": "https://www.youtube.com/watch?v=ns1LX6mEvyM&ab_channel=WebDevSimplified",
+          "type": "video",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > Adding HTML content"
+        },
+        {
+          "title": "Mozilla Development Network(MDN)",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > Closures"
+        },
+        {
+          "title": "educative.io/6346760642363392",
+          "url": "https://www.educative.io/api/page/6187859468877824/image/download/6346760642363392",
+          "type": "kurs",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > What is prototypical inheritance?"
+        },
+        {
+          "title": "educative.io/5676233409429504",
+          "url": "https://www.educative.io/api/page/6187859468877824/image/download/5676233409429504",
+          "type": "kurs",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > What is prototypical inheritance?"
+        },
+        {
+          "title": "Become a Front End Developer",
+          "url": "https://www.educative.io/path/become-front-end-developer",
+          "type": "kurs",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > Keep learning about front-end JavaScript."
+        },
+        {
+          "title": "django-auth-toolkit",
+          "url": "https://github.com/jazzband/django-oauth-toolkit",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > 0: User registers and logins to the service"
+        },
+        {
+          "title": "auth.example/authorize",
+          "url": "https://auth.example/oauth/authorize",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > 1: User -> Client -> Authorization server"
+        },
+        {
+          "title": "randomstring",
+          "url": "https://www.npmjs.com/package/randomstring",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > 1: User -> Client -> Authorization server"
+        },
+        {
+          "title": "\"Generating the code challenge for PKCE in OAuth 2\"",
+          "url": "https://www.valentinog.com/blog/challenge/",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > 1: User -> Client -> Authorization server"
+        },
+        {
+          "title": "build the URL",
+          "url": "https://www.valentinog.com/blog/url/",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > 1: User -> Client -> Authorization server"
+        },
+        {
+          "title": "auth.example/token",
+          "url": "https://auth.example/oauth/token",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Theory Book > 4. Client uses the authorization code to request access token"
+        },
+        {
+          "title": "Lodash",
+          "url": "https://lodash.com/",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Modules"
+        },
+        {
+          "title": "lodash-es",
+          "url": "https://www.npmjs.com/package/lodash-es",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Modules"
+        },
+        {
+          "title": "Leaflet",
+          "url": "https://leafletjs.com/",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Modules"
+        },
+        {
+          "title": "jsdoc.app/about-getting-started.html",
+          "url": "https://jsdoc.app/about-getting-started.html",
+          "type": "övrigt",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Documenting the code"
+        },
+        {
+          "title": "youtube.com/watch",
+          "url": "https://www.youtube.com/watch?v=YK-GurROGIg",
+          "type": "video",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > Documenting the code"
+        },
+        {
+          "title": "Create React App",
+          "url": "https://create-react-app.dev/docs/getting-started",
+          "type": "övrigt",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Creating a project > Starting from scratch"
+        },
+        {
+          "title": "Hooks",
+          "url": "https://reactjs.org/docs/hooks-intro.html",
+          "type": "övrigt",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Hooks"
+        },
+        {
+          "title": "smashingmagazine.com/react-hooks-best-practices",
+          "url": "https://www.smashingmagazine.com/2020/04/react-hooks-best-practices/",
+          "type": "övrigt",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Hooks"
+        },
+        {
+          "title": "Basic Hooks",
+          "url": "https://reactjs.org/docs/hooks-reference.html#basic-hooks",
+          "type": "övrigt",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Hooks"
+        },
+        {
+          "title": "visual demos of flex-wrap here",
+          "url": "https://css-tricks.com/almanac/properties/f/flex-wrap/",
+          "type": "övrigt",
+          "subcategory": "Cheatsheets",
+          "source": "Web dev resource > Cheatsheets > CSS Flexbox > flex-wrap"
+        },
+        {
+          "title": "has detailed charts",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content",
+          "type": "övrigt",
+          "subcategory": "Cheatsheets",
+          "source": "Web dev resource > Cheatsheets > CSS Flexbox > justify-content"
+        },
+        {
+          "title": "browser support",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/align-items",
+          "type": "övrigt",
+          "subcategory": "Cheatsheets",
+          "source": "Web dev resource > Cheatsheets > CSS Flexbox > align-items"
+        },
+        {
+          "title": "level 2 of the CSS Grid specification.",
+          "url": "https://www.w3.org/TR/css-grid-2/#subgrids",
+          "type": "övrigt",
+          "subcategory": "Cheatsheets",
+          "source": "Web dev resource > Cheatsheets > CSS Grid > display"
+        },
+        {
+          "title": "a quick explanation",
+          "url": "https://css-tricks.com/grid-level-2-and-subgrid/",
+          "type": "övrigt",
+          "subcategory": "Cheatsheets",
+          "source": "Web dev resource > Cheatsheets > CSS Grid > display"
+        },
+        {
+          "title": "fr",
+          "url": "https://css-tricks.com/snippets/css/complete-guide-grid/#fr-unit",
+          "type": "övrigt",
+          "subcategory": "Cheatsheets",
+          "source": "Web dev resource > Cheatsheets > CSS Grid > grid-template-columns grid-template-rows"
+        },
+        {
+          "title": "The Difference Between Explicit and Implicit Grids",
+          "url": "https://css-tricks.com/difference-explicit-implicit-grids/",
+          "type": "övrigt",
+          "subcategory": "Cheatsheets",
+          "source": "Web dev resource > Cheatsheets > CSS Grid > grid-auto-columnsgrid-auto-rows"
+        },
+        {
+          "title": "Traversy Media HTML & CSS",
+          "url": "https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU",
+          "type": "video",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > HTML & CSS"
+        },
+        {
+          "title": "12 hs boot camp",
+          "url": "https://youtu.be/Xm4BObh4MhI",
+          "type": "video",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > HTML & CSS"
+        },
+        {
+          "title": "mailing.zachgollwitzer.com/zkls2S5zZoOkwHJ892KanCqQ",
+          "url": "http://mailing.zachgollwitzer.com/sendy/l/SlWEG1kRTaVBXWXA892Qo5pw/nYO7633jCotr1hFqHZHzHSTg/zkls2S5zZoOkwHJ892KanCqQ",
+          "type": "övrigt",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > HTML & CSS"
+        },
+        {
+          "title": "mailing.zachgollwitzer.com/zkls2S5zZoOkwHJ892KanCqQ",
+          "url": "http://mailing.zachgollwitzer.com/sendy/l/SlWEG1kRTaVBXWXA892Qo5pw/Dg0IVD2Pqto4ua892141z92A/zkls2S5zZoOkwHJ892KanCqQ",
+          "type": "övrigt",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > HTML & CSS"
+        },
+        {
+          "title": "Instagram logo in CSS",
+          "url": "https://youtube.com/shorts/dkUb3RAVpf0?feature=share",
+          "type": "video",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > HTML & CSS"
+        },
+        {
+          "title": "Workflow including Parcel, Babel and polyfills",
+          "url": "https://www.youtube.com/watch?v=8rD9amRSOQY",
+          "type": "video",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > JavaScript"
+        },
+        {
+          "title": "Apple Airpod Pro Javascript Animation Tutorial",
+          "url": "https://www.youtube.com/watch?v=wLUJ9VNzZXo&ab_channel=DevEd",
+          "type": "video",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > JavaScript"
+        },
+        {
+          "title": "An introduction to functions",
+          "url": "https://youtu.be/exrc_rLj5iw",
+          "type": "video",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > JavaScript"
+        },
+        {
+          "title": "javascript.info",
+          "url": "https://javascript.info/",
+          "type": "övrigt",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > JavaScript > The Modern JavaScript Tutorial"
+        },
+        {
+          "title": "Visual Studio Code Crash Course",
+          "url": "https://www.youtube.com/watch?v=WPqXP_kLzpo&t=2897s&ab_channel=freeCodeCamp.org",
+          "type": "video",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > VSCode"
+        },
+        {
+          "title": "academy.zerotomastery.io/learn-node-js",
+          "url": "https://academy.zerotomastery.io/p/learn-node-js?affcode=441520_gjue7n-1",
+          "type": "övrigt",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > Node JS"
+        },
+        {
+          "title": "Gatsby bootcamp",
+          "url": "https://youtu.be/8t0vNu2fCCM",
+          "type": "video",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > Gatsby JS"
+        },
+        {
+          "title": "React",
+          "url": "https://youtu.be/a_7Z7C_JCyo",
+          "type": "video",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > React JS"
+        },
+        {
+          "title": "reddit.com/best_online_react_course",
+          "url": "https://www.reddit.com/r/reactjs/comments/9xxpof/best_online_react_course/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+          "type": "övrigt",
+          "subcategory": "Tutorial and courses",
+          "source": "Web dev resource > Tutorial and courses > React JS"
+        },
+        {
+          "title": "css-tricks.com/using-font-face",
+          "url": "https://css-tricks.com/snippets/css/using-font-face/",
+          "type": "övrigt",
+          "subcategory": "Code snippets",
+          "source": "Web dev resource > Code snippets > CSS > @font-face"
+        },
+        {
+          "title": "React Developer Tools",
+          "url": "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en",
+          "type": "verktyg",
+          "subcategory": "Apps and tools",
+          "source": "Web dev resource > Apps and tools > React"
+        },
+        {
+          "title": "more info",
+          "url": "https://www.digitalocean.com/community/tutorials/how-to-debug-react-components-using-react-developer-tools",
+          "type": "övrigt",
+          "subcategory": "Apps and tools",
+          "source": "Web dev resource > Apps and tools > React"
+        },
+        {
+          "title": "Repl.it",
+          "url": "https://repl.it/",
+          "type": "övrigt",
+          "subcategory": "Apps and tools",
+          "source": "Web dev resource > Apps and tools > Online editors"
+        },
+        {
+          "title": "Codepen.io",
+          "url": "https://codepen.io/",
+          "type": "övrigt",
+          "subcategory": "Apps and tools",
+          "source": "Web dev resource > Apps and tools > Online editors"
+        },
+        {
+          "title": "JSFiddle.net",
+          "url": "https://jsfiddle.net/",
+          "type": "övrigt",
+          "subcategory": "Apps and tools",
+          "source": "Web dev resource > Apps and tools > Online editors"
+        },
+        {
+          "title": "CodeSandBox",
+          "url": "https://codesandbox.io/",
+          "type": "övrigt",
+          "subcategory": "Apps and tools",
+          "source": "Web dev resource > Apps and tools > Online editors"
+        },
+        {
+          "title": "CodeKit",
+          "url": "https://codekitapp.com/",
+          "type": "övrigt",
+          "subcategory": "Apps and tools",
+          "source": "Web dev resource > Apps and tools > Builders"
+        },
+        {
+          "title": "Notion to blog",
+          "url": "https://mdx.one/",
+          "type": "övrigt",
+          "subcategory": "Apps and tools",
+          "source": "Web dev resource > Apps and tools > Blog platforms"
+        },
+        {
+          "title": "feedhive.io",
+          "url": "https://feedhive.io/",
+          "type": "övrigt",
+          "subcategory": "Apps and tools",
+          "source": "Web dev resource > Apps and tools > Social media"
+        },
+        {
+          "title": "twitter.com/1424266127006343173",
+          "url": "https://twitter.com/designerSaha/status/1424266127006343173?s=20",
+          "type": "övrigt",
+          "subcategory": "Apps and tools",
+          "source": "Web dev resource > Apps and tools > Social media"
+        },
+        {
+          "title": "softr.io/svg-wave-generator",
+          "url": "https://www.softr.io/tools/svg-wave-generator",
+          "type": "övrigt",
+          "subcategory": "Apps and tools",
+          "source": "Web dev resource > Apps and tools > Wave generators"
+        },
+        {
+          "title": "youtube.com/watch",
+          "url": "https://www.youtube.com/watch?v=oFYyTZwMyAg",
+          "type": "video",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > GitHub > GitHub workflow in depth"
+        },
+        {
+          "title": "moz.com/alt-text",
+          "url": "https://moz.com/learn/seo/alt-text",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > HTML5 > Accessibility, SEO, and performance"
+        },
+        {
+          "title": "stackoverflow.com/google-pagespeed-eliminate-render-blocking-resources-above-the-fold-caused-fro",
+          "url": "https://stackoverflow.com/questions/45983301/google-pagespeed-eliminate-render-blocking-resources-above-the-fold-caused-fro",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > HTML5 > Accessibility, SEO, and performance"
+        },
+        {
+          "title": "Surge",
+          "url": "https://surge.sh/",
+          "type": "övrigt",
+          "subcategory": "Deployment and CI CD",
+          "source": "Web dev resource > Deployment and CI CD > Deployment of a JavaScript project > 2. Deploying the project manually"
+        },
+        {
+          "title": "Netlify",
+          "url": "https://www.netlify.com/",
+          "type": "övrigt",
+          "subcategory": "Deployment and CI CD",
+          "source": "Web dev resource > Deployment and CI CD > Deployment of a JavaScript project > 2. Deploying the project manually"
+        },
+        {
+          "title": "forkify.damiandemasi.com",
+          "url": "http://forkify.damiandemasi.com/",
+          "type": "övrigt",
+          "subcategory": "Deployment and CI CD",
+          "source": "Web dev resource > Deployment and CI CD > Deployment of a JavaScript project > 3. Using a custom domain"
+        },
+        {
+          "title": "elastic-swanson-152625.netlify.app",
+          "url": "http://elastic-swanson-152625.netlify.app",
+          "type": "övrigt",
+          "subcategory": "Deployment and CI CD",
+          "source": "Web dev resource > Deployment and CI CD > Deployment of a JavaScript project > 3. Using a custom domain"
+        },
+        {
+          "title": "validation tools",
+          "url": "https://app.notion.com/p/ef86718a429341f0b5de141fcd7cabc5?pvs=21",
+          "type": "övrigt",
+          "subcategory": "Project planning and checklists",
+          "source": "Web dev resource > Project planning and checklists > Website development steps"
+        },
+        {
+          "title": "forum.freecodecamp.org/2",
+          "url": "https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-use-recursion-to-create-a-countdown/305925/2",
+          "type": "kurs",
+          "subcategory": "JavaScript",
+          "source": "Web dev resource > JavaScript > My Notes on JavaScript > Recursion"
+        },
+        {
+          "title": "swapi.dev/10",
+          "url": "https://swapi.dev/api/starships/10",
+          "type": "övrigt",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Hooks > React hooks use cases > Get API data and store it in state"
+        },
+        {
+          "title": "6142b64c2e448f0007271a3f--romantic-booth-593b0c.netlify.app/state-management",
+          "url": "https://6142b64c2e448f0007271a3f--romantic-booth-593b0c.netlify.app/usestate/state-management",
+          "type": "övrigt",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Hooks > React hooks use cases > Get API data and store it in state"
+        },
+        {
+          "title": "github.com/UseCaseUseState",
+          "url": "https://github.com/Colo-Codes/react-hooks-use-cases/tree/main/src/components/UseCaseUseState",
+          "type": "övrigt",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Hooks > React hooks use cases > Get API data and store it in state"
+        },
+        {
+          "title": "Harry Wolff",
+          "url": "https://www.youtube.com/watch?v=o-nCM1857AQ&t=102s&ab_channel=HarryWolff",
+          "type": "video",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Hooks > React hooks use cases > Modify complex states, such as arrays or objects: login form"
+        },
+        {
+          "title": "this code",
+          "url": "https://github.com/hswolff/youtube/blob/master/videos/why-i-love-usereducer/src/utils.js",
+          "type": "övrigt",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Hooks > React hooks use cases > Modify complex states, such as arrays or objects: login form"
+        },
+        {
+          "title": "swapi.dev/1",
+          "url": "https://swapi.dev/api/people/1/",
+          "type": "övrigt",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Hooks > React hooks use cases > Running once on mount: fetch API data"
+        },
+        {
+          "title": "Finally, you can take a look at these use cases live here, and you can find the source code here.",
+          "url": "https://6142b64c2e448f0007271a3f--romantic-booth-593b0c.netlify.app/",
+          "type": "övrigt",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Hooks > React hooks use cases > Running on props change: updating fetched API data to get updated BTC price"
+        },
+        {
+          "title": "Finally, you can take a look at these use cases live here, and you can find the source code here.",
+          "url": "https://github.com/Colo-Codes/react-hooks-use-cases/tree/main/src/components/UseCaseUseEffect",
+          "type": "övrigt",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Hooks > React hooks use cases > Running on props change: updating fetched API data to get updated BTC price"
+        },
+        {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Memoization",
+          "type": "övrigt",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Hooks > React hooks use cases > [useMemo](https://reactjs.org/docs/hooks-reference.html#usememo)"
+        },
+        {
+          "title": "This question",
+          "url": "https://stackoverflow.com/questions/66429202/what-are-production-use-cases-for-the-useref-usememo-usecallback-hooks",
+          "type": "övrigt",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Hooks > React hooks use cases > [useMemo](https://reactjs.org/docs/hooks-reference.html#usememo)"
+        },
+        {
+          "title": "reddit.com/reactjs.json",
+          "url": "https://www.reddit.com/r/reactjs.json",
+          "type": "övrigt",
+          "subcategory": "ReactJS",
+          "source": "Web dev resource > ReactJS > Hooks > React hooks use cases > Expensive function call: create a complex initial value counting how many posts have more than 10 votes in a subreddit"
+        },
+        {
+          "title": "developer.mozilla.org/Organizing",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices"
+        },
+        {
+          "title": "Previous",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > Organizing your CSS"
+        },
+        {
+          "title": "Overview: Building blocks",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > Organizing your CSS"
+        },
+        {
+          "title": "CSS guidelines for MDN code examples",
+          "url": "https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/CSS",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > [Does your project have a coding style guide?](https://developer.mozilla.org/en-US/docs/Learn/CSS/Buildingblocks/Organizing#doesyourprojecthaveacodingstyleguide)"
+        },
+        {
+          "title": "the work of Nicole Sullivan",
+          "url": "https://github.com/stubbornella/oocss/wiki",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > OOCSS"
+        },
+        {
+          "title": "The Media Object",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Media_objects",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > OOCSS"
+        },
+        {
+          "title": "BEM Naming conventions",
+          "url": "http://getbem.com/naming/",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > BEM"
+        },
+        {
+          "title": "BEM 101",
+          "url": "https://css-tricks.com/bem-101/",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > BEM"
+        },
+        {
+          "title": "Scalable and Modular Architecture for CSS (SMACSS)",
+          "url": "http://smacss.com/",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > Other common systems"
+        },
+        {
+          "title": "ITCSS",
+          "url": "https://itcss.io/",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > Other common systems"
+        },
+        {
+          "title": "Atomic CSS (ACSS)",
+          "url": "https://acss.io/",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > Other common systems"
+        },
+        {
+          "title": "Sass basics",
+          "url": "https://sass-lang.com/guide",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > [Build systems for CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Buildingblocks/Organizing#buildsystemsforcss)"
+        },
+        {
+          "title": "custom properties",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > Defining variables"
+        },
+        {
+          "title": "partials",
+          "url": "https://sass-lang.com/documentation/at-rules/use#partials",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > Compiling component stylesheets"
+        },
+        {
+          "title": "cssnano",
+          "url": "https://cssnano.co/",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > Post-processing for optimization"
+        },
+        {
+          "title": "Learn CSS Layout",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > [Wrapping up](https://developer.mozilla.org/en-US/docs/Learn/CSS/Buildingblocks/Organizing#wrappingup)"
+        },
+        {
+          "title": "MDN CSS",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > [Wrapping up](https://developer.mozilla.org/en-US/docs/Learn/CSS/Buildingblocks/Organizing#wrappingup)"
+        },
+        {
+          "title": "CSS Cookbook",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > [Wrapping up](https://developer.mozilla.org/en-US/docs/Learn/CSS/Buildingblocks/Organizing#wrappingup)"
+        },
+        {
+          "title": "Guide to CSS Grid Layout",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Writing CSS best practices > [Wrapping up](https://developer.mozilla.org/en-US/docs/Learn/CSS/Buildingblocks/Organizing#wrappingup)"
+        },
+        {
+          "title": "css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice",
+          "url": "https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Apply the border-box property to all elements"
+        },
+        {
+          "title": "css-tricks.com/reset-all-margins-padding",
+          "url": "https://css-tricks.com/reset-all-margins-padding/",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Margins and paddings"
+        },
+        {
+          "title": "reddit.com/18_cards_of_how_to_design_web_forms",
+          "url": "https://www.reddit.com/r/webdev/comments/nm6wcl/18_cards_of_how_to_design_web_forms/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+          "type": "övrigt",
+          "subcategory": "Best practices",
+          "source": "Web dev resource > Best practices > CSS > Forms"
+        }
+      ]
+    },
+    {
+      "id": "ux-och-design",
+      "title": "UX & Design",
+      "description": "",
+      "links": [
+        {
+          "title": "Get our free ebook",
+          "url": "https://www.interaction-design.org/ebook?ep=felix-hanifel&fbclid=IwAR0m4gZOjYcERj-HQfxMaqT114FdGYo-NoQierWwGRQAHS3-CPZYGEaTP8E",
+          "type": "övrigt",
+          "subcategory": "Free eBooks (UX, UI & CX)",
+          "source": "Resource Package Design > Free eBooks (UX, UI & CX)"
+        },
+        {
+          "title": "WTF is UX Design",
+          "url": "https://mailchi.mp/5831324ec421/wtfisuxdesign",
+          "type": "övrigt",
+          "subcategory": "Free eBooks (UX, UI & CX)",
+          "source": "Resource Package Design > Free eBooks (UX, UI & CX)"
+        },
+        {
+          "title": "How to Design Better UI Components (complete ebook)",
+          "url": "https://uiadrian.gumroad.com/l/How-to-design-better?fbclid=IwAR1wUyFH6OdwRwXkWeirdVx0lLuPPbVa0JKhfltr0ZDv9vTFWq1oBApXTc4",
+          "type": "övrigt",
+          "subcategory": "Free eBooks (UX, UI & CX)",
+          "source": "Resource Package Design > Free eBooks (UX, UI & CX)"
+        },
+        {
+          "title": "Twilio Segment | Customer Data Platform (CDP)",
+          "url": "https://learn.segment.com/fundamentals-of-customer-acquisition/",
+          "type": "övrigt",
+          "subcategory": "Free eBooks (UX, UI & CX)",
+          "source": "Resource Package Design > Free eBooks (UX, UI & CX)"
+        },
+        {
+          "title": "Product Design | Udacity Free Courses",
+          "url": "https://www.udacity.com/course/product-design--ud509",
+          "type": "övrigt",
+          "subcategory": "Kurser & Guidelines",
+          "source": "Resource Package Design > Kurser & Guidelines"
+        },
+        {
+          "title": "MIT OpenCourseWare | Free Online Course Materials",
+          "url": "https://ocw.mit.edu/",
+          "type": "övrigt",
+          "subcategory": "Kurser & Guidelines",
+          "source": "Resource Package Design > Kurser & Guidelines"
+        },
+        {
+          "title": "The Design System Guide",
+          "url": "https://thedesignsystem.guide/",
+          "type": "övrigt",
+          "subcategory": "Kurser & Guidelines",
+          "source": "Resource Package Design > Kurser & Guidelines > Guidelines"
+        },
+        {
+          "title": "Design Principles",
+          "url": "https://principles.design/",
+          "type": "övrigt",
+          "subcategory": "Kurser & Guidelines",
+          "source": "Resource Package Design > Kurser & Guidelines > Guidelines"
+        },
+        {
+          "title": "Learn Mobile Design",
+          "url": "https://learnmobile.design/",
+          "type": "övrigt",
+          "subcategory": "Kurser & Guidelines",
+          "source": "Resource Package Design > Kurser & Guidelines > Guidelines"
+        },
+        {
+          "title": "Home | Laws of UX",
+          "url": "http://lawsofux.com/",
+          "type": "övrigt",
+          "subcategory": "Kurser & Guidelines",
+          "source": "Resource Package Design > Kurser & Guidelines > Guidelines"
+        },
+        {
+          "title": "Degreeless.design - Everything I Learned in Design School",
+          "url": "https://www.degreeless.design/",
+          "type": "övrigt",
+          "subcategory": "Kurser & Guidelines",
+          "source": "Resource Package Design > Kurser & Guidelines > Guidelines"
+        },
+        {
+          "title": "Design - Apple Developer",
+          "url": "https://developer.apple.com/design/",
+          "type": "övrigt",
+          "subcategory": "Kurser & Guidelines",
+          "source": "Resource Package Design > Kurser & Guidelines > Guidelines"
+        },
+        {
+          "title": "Human Interface Guidelines",
+          "url": "http://developer.apple.com/design/human-interface-guidelines/",
+          "type": "övrigt",
+          "subcategory": "Kurser & Guidelines",
+          "source": "Resource Package Design > Kurser & Guidelines > Guidelines"
+        },
+        {
+          "title": "🧠Psychology of Design: 106 Cognitive Biases & Principles That Affect Your UX",
+          "url": "https://growth.design/psychology",
+          "type": "övrigt",
+          "subcategory": "Kurser & Guidelines",
+          "source": "Resource Package Design > Kurser & Guidelines > Guidelines"
+        },
+        {
+          "title": "15 UI Tips for Better Forms",
+          "url": "https://www.uidesign.tips/blog/top-ui-ux-design-tips-for-better-forms",
+          "type": "övrigt",
+          "subcategory": "Kurser & Guidelines",
+          "source": "Resource Package Design > Kurser & Guidelines > Guidelines"
+        },
+        {
+          "title": "Mobile Form Design: 15 Best Practices and Examples",
+          "url": "https://lvivity.com/mobile-form-design-best-practices",
+          "type": "övrigt",
+          "subcategory": "Kurser & Guidelines",
+          "source": "Resource Package Design > Kurser & Guidelines > Guidelines"
+        },
+        {
+          "title": "Creating a Good Customer Feedback Form: 5 Useful Samples - Trustmary",
+          "url": "https://trustmary.com/customer-feedback/sample-customer-feedback-form/",
+          "type": "övrigt",
+          "subcategory": "Kurser & Guidelines",
+          "source": "Resource Package Design > Kurser & Guidelines > Guidelines"
+        },
+        {
+          "title": "Figma",
+          "url": "https://www.figma.com/community/file/769694576496801916",
+          "type": "övrigt",
+          "subcategory": "Lär dig UX via roliga spel! 😍",
+          "source": "Resource Package Design > Lär dig UX via roliga spel! 😍"
+        },
+        {
+          "title": "Test and measure your design skills with confidence",
+          "url": "https://uxcel.com/assess-skills",
+          "type": "övrigt",
+          "subcategory": "Lär dig UX via roliga spel! 😍",
+          "source": "Resource Package Design > Lär dig UX via roliga spel! 😍"
+        },
+        {
+          "title": "Can't Unsee",
+          "url": "https://cantunsee.space/",
+          "type": "övrigt",
+          "subcategory": "Lär dig UX via roliga spel! 😍",
+          "source": "Resource Package Design > Lär dig UX via roliga spel! 😍"
+        },
+        {
+          "title": "Method of Action",
+          "url": "https://method.ac/",
+          "type": "övrigt",
+          "subcategory": "Lär dig UX via roliga spel! 😍",
+          "source": "Resource Package Design > Lär dig UX via roliga spel! 😍"
+        },
+        {
+          "title": "It's Centred That | Test Your Inner Designer Eye",
+          "url": "https://www.supremo.co.uk/designers-eye/",
+          "type": "övrigt",
+          "subcategory": "Lär dig UX via roliga spel! 😍",
+          "source": "Resource Package Design > Lär dig UX via roliga spel! 😍"
+        },
+        {
+          "title": "Triangle",
+          "url": "https://betterwebtype.com/triangle/",
+          "type": "övrigt",
+          "subcategory": "Lär dig UX via roliga spel! 😍",
+          "source": "Resource Package Design > Lär dig UX via roliga spel! 😍"
+        },
+        {
+          "title": "The Bézier Game",
+          "url": "https://bezier.method.ac/",
+          "type": "övrigt",
+          "subcategory": "Lär dig UX via roliga spel! 😍",
+          "source": "Resource Package Design > Lär dig UX via roliga spel! 😍"
+        },
+        {
+          "title": "DESIGNERCIZE",
+          "url": "https://designercize.com/",
+          "type": "övrigt",
+          "subcategory": "Lär dig UX via roliga spel! 😍",
+          "source": "Resource Package Design > Lär dig UX via roliga spel! 😍"
+        },
+        {
+          "title": "‣",
+          "url": "https://app.notion.com/p/0b01cdfa340940fdab6a98e49d9f37df?pvs=21",
+          "type": "övrigt",
+          "subcategory": "Challenges",
+          "source": "Resource Package Design > Challenges"
+        },
+        {
+          "title": "UX Design Challenges",
+          "url": "https://uxtools.co/challenges",
+          "type": "övrigt",
+          "subcategory": "Challenges",
+          "source": "Resource Package Design > Challenges"
+        },
+        {
+          "title": "Sharpen - Design Challenge Generator",
+          "url": "https://sharpen.design/",
+          "type": "övrigt",
+          "subcategory": "Challenges",
+          "source": "Resource Package Design > Challenges"
+        },
+        {
+          "title": "What Should I Design? - the design prompt generator",
+          "url": "http://www.whatshouldidesign.com/",
+          "type": "övrigt",
+          "subcategory": "Challenges",
+          "source": "Resource Package Design > Challenges"
+        },
+        {
+          "title": "Brief Up | Random Project Briefs",
+          "url": "http://briefup.co/",
+          "type": "övrigt",
+          "subcategory": "Challenges",
+          "source": "Resource Package Design > Challenges"
+        },
+        {
+          "title": "Briefz.Biz - A Simple Design Brief Generator",
+          "url": "https://www.briefz.biz/",
+          "type": "övrigt",
+          "subcategory": "Challenges",
+          "source": "Resource Package Design > Challenges"
+        },
+        {
+          "title": "Goodbrief: Get Unique Design Briefs",
+          "url": "http://goodbrief.io/",
+          "type": "övrigt",
+          "subcategory": "Challenges",
+          "source": "Resource Package Design > Challenges"
+        },
+        {
+          "title": "Challenges - UpLabs",
+          "url": "http://uplabs.com/challenges",
+          "type": "övrigt",
+          "subcategory": "Challenges",
+          "source": "Resource Package Design > Challenges"
+        },
+        {
+          "title": "picular.co",
+          "url": "http://picular.co/",
+          "type": "övrigt",
+          "subcategory": "Color palettes",
+          "source": "Resource Package Design > Color palettes"
+        },
+        {
+          "title": "Paletton - The Color Scheme Designer",
+          "url": "http://paletton.com/",
+          "type": "övrigt",
+          "subcategory": "Color palettes",
+          "source": "Resource Package Design > Color palettes"
+        },
+        {
+          "title": "Color Palettes for Designers and Artists - Color Hunt",
+          "url": "http://colorhunt.co/",
+          "type": "övrigt",
+          "subcategory": "Color palettes",
+          "source": "Resource Package Design > Color palettes"
+        },
+        {
+          "title": "color.adobe.com",
+          "url": "http://color.adobe.com/",
+          "type": "övrigt",
+          "subcategory": "Color palettes",
+          "source": "Resource Package Design > Color palettes"
+        },
+        {
+          "title": "BrandColors",
+          "url": "http://brandcolors.net/",
+          "type": "övrigt",
+          "subcategory": "Color palettes",
+          "source": "Resource Package Design > Color palettes"
+        },
+        {
+          "title": "Coolors - The super fast color palettes generator!",
+          "url": "http://coolors.co/",
+          "type": "övrigt",
+          "subcategory": "Color palettes",
+          "source": "Resource Package Design > Color palettes"
+        },
+        {
+          "title": "ColorSpace - Color Palettes Generator and Color Gradient Tool",
+          "url": "http://mycolor.space",
+          "type": "övrigt",
+          "subcategory": "Color palettes",
+          "source": "Resource Package Design > Color palettes"
+        },
+        {
+          "title": "Open Peeps, Hand-Drawn Illustration Library",
+          "url": "https://openpeeps.com/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Free Gradients Collection by itmeo.com",
+          "url": "http://webgradients.com/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Simple Icons",
+          "url": "https://simpleicons.org/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Ionicons: The premium icon pack for Ionic Framework",
+          "url": "https://ionicons.com/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Free Icons and Stickers - Millions of resources to download",
+          "url": "https://www.flaticon.com/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Animaticons - Beautiful, customizable animated GIF icons",
+          "url": "https://animaticons.co/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "ui8.net",
+          "url": "http://ui8.net/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Boxicons : Premium web friendly icons for free",
+          "url": "https://boxicons.com/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Material Design",
+          "url": "http://material.io/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Craftwork: UX/U kits, templates, vector and 3D illustrations",
+          "url": "https://craftwork.design/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Free 3D Illustration Pack Library - Khagwal 3D",
+          "url": "https://3d.khagwal.co/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Iconshock - 2 million stock icons and 800 icon sets",
+          "url": "https://www.iconshock.com/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Shape - 36000+ Icons & Illustrations to SVG, Lottie, React.",
+          "url": "http://shape.so/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "unDraw - Open source illustrations for any idea",
+          "url": "https://undraw.co/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Free Icons, Clipart Illustrations, Photos, and Music",
+          "url": "http://icons8.com/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "IRA Design by Creative Tim",
+          "url": "https://iradesign.io/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Free icons by first-class designers | Iconstore",
+          "url": "http://iconstore.co/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Orion Icon Library",
+          "url": "https://orioniconlibrary.com/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Noun Project: Free Icons & Stock Photos for Everything",
+          "url": "https://thenounproject.com/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Download 5.1 Million+ Icons, 3D Illustrations, and Lottie Animations | IconScout",
+          "url": "https://iconscout.com/",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Storytale - High-class web illustrations under simple subscription",
+          "url": "http://storytale.io",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "creativemarket.com/welovegraphics",
+          "url": "https://creativemarket.com/welovegraphics",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "canva.com/icons",
+          "url": "http://canva.com/icons",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations"
+        },
+        {
+          "title": "Figma",
+          "url": "https://www.figma.com/community/file/887986216987316139",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations > I Figma"
+        },
+        {
+          "title": "Figma",
+          "url": "https://www.figma.com/community/file/989126066997616143",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations > I Figma"
+        },
+        {
+          "title": "Figma",
+          "url": "https://www.figma.com/community/file/1000311109311441524",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations > I Figma"
+        },
+        {
+          "title": "Figma",
+          "url": "https://www.figma.com/community/file/944228750903853832",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations > I Figma"
+        },
+        {
+          "title": "Figma",
+          "url": "https://www.figma.com/community/file/890095002328610853",
+          "type": "övrigt",
+          "subcategory": "Icons and illustrations",
+          "source": "Resource Package Design > Icons and illustrations > I Figma"
+        },
+        {
+          "title": "Make Mockups, Logos, Videos and Designs in Seconds",
+          "url": "http://placeit.net/",
+          "type": "övrigt",
+          "subcategory": "Mockups & Content",
+          "source": "Resource Package Design > Mockups & Content > Mockups"
+        },
+        {
+          "title": "Premium Design & Web Resources",
+          "url": "http://pixeden.com/",
+          "type": "övrigt",
+          "subcategory": "Mockups & Content",
+          "source": "Resource Package Design > Mockups & Content > Mockups"
+        },
+        {
+          "title": "Mockplus",
+          "url": "http://mockplus.com/",
+          "type": "övrigt",
+          "subcategory": "Mockups & Content",
+          "source": "Resource Package Design > Mockups & Content > Mockups"
+        },
+        {
+          "title": "Freepik | Graphic Resources for everyone",
+          "url": "http://freepik.com/",
+          "type": "övrigt",
+          "subcategory": "Mockups & Content",
+          "source": "Resource Package Design > Mockups & Content > Mockups"
+        },
+        {
+          "title": "Prototypr - Prototyping, UX Design, Front-end Development and Beyond",
+          "url": "http://prototypr.io/",
+          "type": "övrigt",
+          "subcategory": "Mockups & Content",
+          "source": "Resource Package Design > Mockups & Content > Mockups"
+        },
+        {
+          "title": "Generate free mockup UI for your website or app. Over 500 variations 🤤",
+          "url": "https://uigenerator.org/",
+          "type": "övrigt",
+          "subcategory": "Mockups & Content",
+          "source": "Resource Package Design > Mockups & Content > Mockups"
+        },
+        {
+          "title": "Google Web Designer - Home",
+          "url": "https://webdesigner.withgoogle.com/",
+          "type": "övrigt",
+          "subcategory": "Mockups & Content",
+          "source": "Resource Package Design > Mockups & Content > Content/Tools"
+        },
+        {
+          "title": "canva.com",
+          "url": "https://www.canva.com/",
+          "type": "övrigt",
+          "subcategory": "Mockups & Content",
+          "source": "Resource Package Design > Mockups & Content > Content/Tools"
+        },
+        {
+          "title": "ClipDrop",
+          "url": "https://clipdrop.co/",
+          "type": "övrigt",
+          "subcategory": "Mockups & Content",
+          "source": "Resource Package Design > Mockups & Content > Content/Tools"
+        },
+        {
+          "title": "Design Junction",
+          "url": "https://designjunction.xyz/",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo"
+        },
+        {
+          "title": "Dribbble - Discover the World's Top Designers & Creative Professionals",
+          "url": "https://dribbble.com/",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo"
+        },
+        {
+          "title": "Search Projects | Photos, videos, logos, illustrations and branding on Behance",
+          "url": "https://www.behance.net/",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo"
+        },
+        {
+          "title": "Best Website Gallery - Web Design Inspiration - by @davidhellmann",
+          "url": "https://bestwebsite.gallery/",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo"
+        },
+        {
+          "title": "Screenlane",
+          "url": "http://screenlane.com/",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo"
+        },
+        {
+          "title": "Home - Brainsight",
+          "url": "https://brainsight.app/",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo"
+        },
+        {
+          "title": "Makers Website builder inside Figma",
+          "url": "http://makers.so/",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo"
+        },
+        {
+          "title": "Same Energy | Visual Search Engine",
+          "url": "http://same.energy",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo"
+        },
+        {
+          "title": "5 Practical Exercises to Learn UI Design (For Free)",
+          "url": "https://www.learnui.design/blog/5-practical-exercises-learn-ui-design-free.html",
+          "type": "övrigt",
+          "subcategory": "Guider",
+          "source": "Resource Package Design > Guider"
+        },
+        {
+          "title": "The #1 Way to Spice Up Your Designs (And Create a More Cohesive Brand)",
+          "url": "https://www.learnui.design/blog/spice-up-designs-create-cohesive-brand.html",
+          "type": "övrigt",
+          "subcategory": "Guider",
+          "source": "Resource Package Design > Guider"
+        },
+        {
+          "title": "Color in UI Design: A (Practical) Framework",
+          "url": "https://www.learnui.design/blog/color-in-ui-design-a-practical-framework.html",
+          "type": "övrigt",
+          "subcategory": "Guider",
+          "source": "Resource Package Design > Guider"
+        },
+        {
+          "title": "7 Rules for Creating Gorgeous UI (Updated for 2022)",
+          "url": "https://www.learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html",
+          "type": "övrigt",
+          "subcategory": "Guider",
+          "source": "Resource Package Design > Guider"
+        },
+        {
+          "title": "article",
+          "url": "https://uxdesign.cc/digging-deep-in-layout-grids-in-mobile-app-design-ef07ace5b291",
+          "type": "övrigt",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Layout and Grid"
+        },
+        {
+          "title": "plugin",
+          "url": "https://www.figma.com/community/plugin/929607085343688745/Color-Shades",
+          "type": "verktyg",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Primary Color"
+        },
+        {
+          "title": "Coolors",
+          "url": "https://coolors.co/",
+          "type": "övrigt",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Secondary and Accent Colors"
+        },
+        {
+          "title": "Color Palette Generator",
+          "url": "https://www.figma.com/community/file/985816887423526512",
+          "type": "övrigt",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Color Management"
+        },
+        {
+          "title": "Color Contrast Checker",
+          "url": "https://www.figma.com/community/widget/1123669584321839030",
+          "type": "övrigt",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Color Management"
+        },
+        {
+          "title": "Colorblind Simulator",
+          "url": "https://www.figma.com/community/plugin/733343906244951586/Color-Blind",
+          "type": "verktyg",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Color Management"
+        },
+        {
+          "title": "Dark Mode Magic",
+          "url": "https://www.figma.com/community/plugin/834062945643616879/Dark-Mode-Magic",
+          "type": "verktyg",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Color Management"
+        },
+        {
+          "title": "Google Font type pairing palette",
+          "url": "https://www.figma.com/google-fonts/",
+          "type": "övrigt",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Typography"
+        },
+        {
+          "title": "Apple’s tracking table",
+          "url": "https://developer.apple.com/design/human-interface-guidelines/foundations/typography",
+          "type": "övrigt",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Text Layout"
+        },
+        {
+          "title": "Figma file",
+          "url": "https://www.figma.com/community/file/886999666531731323",
+          "type": "övrigt",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Iconography"
+        },
+        {
+          "title": "video",
+          "url": "https://developer.apple.com/videos/play/wwdc2021/10250",
+          "type": "övrigt",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Iconography"
+        },
+        {
+          "title": "W3C",
+          "url": "https://www.w3.org/WAI/WCAG21/Techniques/general/G207",
+          "type": "övrigt",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Iconography"
+        },
+        {
+          "title": "Apple’s documentation.",
+          "url": "https://developer.apple.com/design/human-interface-guidelines/foundations/icons",
+          "type": "övrigt",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Iconography"
+        },
+        {
+          "title": "documentation",
+          "url": "https://developer.apple.com/design/human-interface-guidelines/components/all-components",
+          "type": "övrigt",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Components"
+        },
+        {
+          "title": "LottieFiles",
+          "url": "https://lottiefiles.com/",
+          "type": "övrigt",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Transitions"
+        },
+        {
+          "title": "ProtoPie",
+          "url": "https://www.protopie.io/?ref=uxtools.co",
+          "type": "övrigt",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Transitions"
+        },
+        {
+          "title": "Flow",
+          "url": "https://createwithflow.com/",
+          "type": "övrigt",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Transitions"
+        },
+        {
+          "title": "YouTube channel",
+          "url": "https://www.youtube.com/channel/UCLNgIi88swGcuktpPGbB6gQ",
+          "type": "video",
+          "subcategory": "A comprehensive guide on creating UI designs for I",
+          "source": "Resource Package Design > A comprehensive guide on creating UI designs for I > Conclusion"
+        },
+        {
+          "title": "What's the difference between a jpg, gif, png and svg?",
+          "url": "https://www.sumydesigns.com/difference-jpg-gif-png-svg/",
+          "type": "övrigt",
+          "subcategory": "Utveckling - tips",
+          "source": "Resource Package Design > Utveckling - tips"
+        },
+        {
+          "title": "Tips on developer handoff in Figma",
+          "url": "https://www.figma.com/best-practices/tips-on-developer-handoff/an-overview-of-figma-for-developers/",
+          "type": "övrigt",
+          "subcategory": "Utveckling - tips",
+          "source": "Resource Package Design > Utveckling - tips"
+        },
+        {
+          "title": "Best Figma Plugins for Developers You Must Have",
+          "url": "https://justfigma.com/best-figma-plugins-for-developers-you-must-have/",
+          "type": "övrigt",
+          "subcategory": "Utveckling - tips",
+          "source": "Resource Package Design > Utveckling - tips"
+        },
+        {
+          "title": "60 Best Figma Plugins to Supercharger Your Workflow",
+          "url": "https://dev.to/rembertdesigns/60-best-figma-plugins-to-supercharger-your-workflow-2792",
+          "type": "övrigt",
+          "subcategory": "Utveckling - tips",
+          "source": "Resource Package Design > Utveckling - tips"
+        },
+        {
+          "title": "Every shortcut for designers, centralized and searchable",
+          "url": "https://shortcuts.design/tools/toolspage-figma/",
+          "type": "övrigt",
+          "subcategory": "Utveckling - tips",
+          "source": "Resource Package Design > Utveckling - tips"
+        },
+        {
+          "title": "Earth Definition - The new standard in streaming",
+          "url": "https://earthdefinition.org/",
+          "type": "övrigt",
+          "subcategory": "Utveckling - tips",
+          "source": "Resource Package Design > Utveckling - tips"
+        },
+        {
+          "title": "WAVE Evaluation Tool",
+          "url": "https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh",
+          "type": "verktyg",
+          "subcategory": "Chrome extensions plugins",
+          "source": "Resource Package Design > Chrome extensions plugins > Accessibility"
+        },
+        {
+          "title": "Lighthouse",
+          "url": "https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en",
+          "type": "verktyg",
+          "subcategory": "Chrome extensions plugins",
+          "source": "Resource Package Design > Chrome extensions plugins > Accessibility"
+        },
+        {
+          "title": "Accessibility Insights for Web",
+          "url": "https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni?hl=en",
+          "type": "verktyg",
+          "subcategory": "Chrome extensions plugins",
+          "source": "Resource Package Design > Chrome extensions plugins > Accessibility"
+        },
+        {
+          "title": "axe DevTools - Web Accessibility Testing",
+          "url": "https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd",
+          "type": "verktyg",
+          "subcategory": "Chrome extensions plugins",
+          "source": "Resource Package Design > Chrome extensions plugins > Accessibility"
+        },
+        {
+          "title": "EqualWeb Accessibility Checker",
+          "url": "https://chrome.google.com/webstore/detail/equalweb-accessibility-ch/imemciokfejbnonkkinhcdfigdilcllg?hl=en",
+          "type": "verktyg",
+          "subcategory": "Chrome extensions plugins",
+          "source": "Resource Package Design > Chrome extensions plugins > Accessibility"
+        },
+        {
+          "title": "WCAG Color contrast checker",
+          "url": "https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf",
+          "type": "verktyg",
+          "subcategory": "Chrome extensions plugins",
+          "source": "Resource Package Design > Chrome extensions plugins > Accessibility"
+        },
+        {
+          "title": "GoFullPage - Full Page Screen Capture",
+          "url": "https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en",
+          "type": "verktyg",
+          "subcategory": "Chrome extensions plugins",
+          "source": "Resource Package Design > Chrome extensions plugins > Design"
+        },
+        {
+          "title": "WhatFont",
+          "url": "https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en",
+          "type": "verktyg",
+          "subcategory": "Chrome extensions plugins",
+          "source": "Resource Package Design > Chrome extensions plugins > Design"
+        },
+        {
+          "title": "Web Developer",
+          "url": "https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm",
+          "type": "verktyg",
+          "subcategory": "Chrome extensions plugins",
+          "source": "Resource Package Design > Chrome extensions plugins > Utveckling"
+        },
+        {
+          "title": "WCAG - standard för tillgänglighet - Vägledning för webbutveckling",
+          "url": "https://webbriktlinjer.se/wcag/",
+          "type": "övrigt",
+          "subcategory": "Direktiv & Tips",
+          "source": "Resource Package Design > Direktiv & Tips > Direktiv"
+        },
+        {
+          "title": "appt.org/en",
+          "url": "https://appt.org/en",
+          "type": "övrigt",
+          "subcategory": "Direktiv & Tips",
+          "source": "Resource Package Design > Direktiv & Tips > Direktiv"
+        },
+        {
+          "title": "The iOS Font Size Guidelines (Updated for iOS 15)",
+          "url": "https://www.learnui.design/blog/ios-font-size-guidelines.html",
+          "type": "övrigt",
+          "subcategory": "Direktiv & Tips",
+          "source": "Resource Package Design > Direktiv & Tips > Direktiv"
+        },
+        {
+          "title": "Top seven free color contrast checkers & analyzers | Axess Lab",
+          "url": "https://axesslab.com/top-color-contrast-checkers/",
+          "type": "övrigt",
+          "subcategory": "Direktiv & Tips",
+          "source": "Resource Package Design > Direktiv & Tips > Tips"
+        },
+        {
+          "title": "Accessibility Myths",
+          "url": "https://a11ymyths.com/",
+          "type": "övrigt",
+          "subcategory": "Direktiv & Tips",
+          "source": "Resource Package Design > Direktiv & Tips > Tips"
+        },
+        {
+          "title": "Benzin",
+          "url": "https://www.figma.com/community/plugin/912436486778130560/BENZIN---remove-background-for-free",
+          "type": "verktyg",
+          "subcategory": "Plugins",
+          "source": "Resource Package Design > Plugins"
+        },
+        {
+          "title": "Redlines",
+          "url": "https://www.figma.com/community/plugin/781354942292031141/Redlines",
+          "type": "verktyg",
+          "subcategory": "Plugins",
+          "source": "Resource Package Design > Plugins"
+        },
+        {
+          "title": "Content Reel",
+          "url": "https://www.figma.com/community/plugin/731627216655469013/Content-Reel",
+          "type": "verktyg",
+          "subcategory": "Plugins",
+          "source": "Resource Package Design > Plugins"
+        },
+        {
+          "title": "Scale",
+          "url": "https://www.figma.com/community/plugin/836326694968364056",
+          "type": "verktyg",
+          "subcategory": "Plugins",
+          "source": "Resource Package Design > Plugins"
+        },
+        {
+          "title": "Split Shape",
+          "url": "https://www.figma.com/community/plugin/746565487016656360",
+          "type": "verktyg",
+          "subcategory": "Plugins",
+          "source": "Resource Package Design > Plugins"
+        },
+        {
+          "title": "Styler",
+          "url": "https://www.figma.com/community/plugin/820660579767995949",
+          "type": "verktyg",
+          "subcategory": "Plugins",
+          "source": "Resource Package Design > Plugins"
+        },
+        {
+          "title": "Clean Document",
+          "url": "https://www.figma.com/community/plugin/767379019764649932/Clean-Document",
+          "type": "verktyg",
+          "subcategory": "Plugins",
+          "source": "Resource Package Design > Plugins"
+        },
+        {
+          "title": "BlendingMe",
+          "url": "https://www.figma.com/community/plugin/887243243437608411",
+          "type": "verktyg",
+          "subcategory": "Plugins",
+          "source": "Resource Package Design > Plugins"
+        },
+        {
+          "title": "Figma",
+          "url": "https://www.figma.com/community/plugin/1116018586739867857",
+          "type": "verktyg",
+          "subcategory": "Plugins",
+          "source": "Resource Package Design > Plugins"
+        },
+        {
+          "title": "s3-us-west-2.amazonaws.com/Figma_workshop_med_Elie_Josefine__Sandra.mp4",
+          "url": "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0829401f-5861-4232-a96e-ec530423a844/Figma_workshop_med_Elie_Josefine__Sandra.mp4",
+          "type": "övrigt",
+          "subcategory": "Figma workshop",
+          "source": "Resource Package Design > Figma workshop"
+        },
+        {
+          "title": "Dovetail",
+          "url": "https://dovetailapp.com/home",
+          "type": "övrigt",
+          "subcategory": "UX & Product Research",
+          "source": "Resource Package Design > UX & Product Research > Documenting your research > Organisation of your research"
+        },
+        {
+          "title": "example of a summary",
+          "url": "https://www.figma.com/file/TKA2iNVNWPF4X0EDRa65Mb/Appointment-Booking-Process-Research?node-id=0%3A1",
+          "type": "övrigt",
+          "subcategory": "UX & Product Research",
+          "source": "Resource Package Design > UX & Product Research > Documenting your research > Summary"
+        },
+        {
+          "title": "UX Movements",
+          "url": "https://uxmovement.com/buttons/why-users-click-right-call-to-actions-more-than-left-ones/#:~:text=The%20difference%20between%20a%20left,way%20that%20makes%20users%20act.",
+          "type": "övrigt",
+          "subcategory": "UX & Product Research",
+          "source": "Resource Package Design > UX & Product Research > Documenting your research > Research outcome Template > ✨ Conclusion"
+        }
+      ]
+    },
+    {
+      "id": "agilt-och-scrum",
+      "title": "Agilt & Scrum",
+      "description": "",
+      "links": [
+        {
+          "title": "tally.so/31AbWl",
+          "url": "https://tally.so/r/31AbWl",
+          "type": "övrigt",
+          "subcategory": "Notion Scrum Template V2",
+          "source": "Notion Scrum Template V2"
+        },
+        {
+          "title": "The Scrum Guide",
+          "url": "http://www.scrumguides.org/",
+          "type": "övrigt",
+          "subcategory": "Agile methodologies, Manifesto, values and Princip",
+          "source": "Scrum Master > Agile methodologies, Manifesto, values and Princip > Scrum"
+        },
+        {
+          "title": "agilealliance.org/atdd",
+          "url": "https://www.agilealliance.org/glossary/atdd/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Acceptance Test Driven Development (ATDD)](https://www.agilealliance.org/glossary/atdd/)"
+        },
+        {
+          "title": "agilealliance.org/acceptance",
+          "url": "https://www.agilealliance.org/glossary/acceptance/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Acceptance Testing](https://www.agilealliance.org/glossary/acceptance/)"
+        },
+        {
+          "title": "agilealliance.org/antipattern",
+          "url": "https://www.agilealliance.org/glossary/antipattern/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Antipattern](https://www.agilealliance.org/glossary/antipattern/)"
+        },
+        {
+          "title": "agilealliance.org/automated-build",
+          "url": "https://www.agilealliance.org/glossary/automated-build/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Automated Build](https://www.agilealliance.org/glossary/automated-build/)"
+        },
+        {
+          "title": "product backlog",
+          "url": "https://www.agilealliance.org/glossary/backlog/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Backlog](https://www.agilealliance.org/glossary/backlog/)"
+        },
+        {
+          "title": "(read more)",
+          "url": "https://www.agilealliance.org/glossary/backlog-refinement/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Backlog Refinement](https://www.agilealliance.org/glossary/backlog-refinement/)"
+        },
+        {
+          "title": "agilealliance.org/bdd",
+          "url": "https://www.agilealliance.org/glossary/bdd/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Behavior Driven Development (BDD)](https://www.agilealliance.org/glossary/bdd/)"
+        },
+        {
+          "title": "agilealliance.org/burndown-chart",
+          "url": "https://www.agilealliance.org/glossary/burndown-chart/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Burndown Chart](https://www.agilealliance.org/glossary/burndown-chart/)"
+        },
+        {
+          "title": "(see more",
+          "url": "https://www.agilealliance.org/glossary/business-agility/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Business Agility](https://www.agilealliance.org/glossary/business-agility/)"
+        },
+        {
+          "title": "agilealliance.org/collective-ownership",
+          "url": "https://www.agilealliance.org/glossary/collective-ownership/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Collective Ownership](https://www.agilealliance.org/glossary/collective-ownership/)"
+        },
+        {
+          "title": "agilealliance.org/continuous-deployment",
+          "url": "https://www.agilealliance.org/glossary/continuous-deployment/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Continuous Deployment](https://www.agilealliance.org/glossary/continuous-deployment/)"
+        },
+        {
+          "title": "agilealliance.org/continuous-integration",
+          "url": "https://www.agilealliance.org/glossary/continuous-integration/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Continuous Integration](https://www.agilealliance.org/glossary/continuous-integration/)"
+        },
+        {
+          "title": "agilealliance.org/crc-cards",
+          "url": "https://www.agilealliance.org/glossary/crc-cards/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [CRC Cards](https://www.agilealliance.org/glossary/crc-cards/)"
+        },
+        {
+          "title": "(learn more)",
+          "url": "https://www.agilealliance.org/glossary/customer-development/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Customer Development](https://www.agilealliance.org/glossary/customer-development/)"
+        },
+        {
+          "title": "agilealliance.org/daily-meeting",
+          "url": "https://www.agilealliance.org/glossary/daily-meeting/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Daily Meeting](https://www.agilealliance.org/glossary/daily-meeting/)"
+        },
+        {
+          "title": "agilealliance.org/definition-of-done",
+          "url": "https://www.agilealliance.org/glossary/definition-of-done/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Definition of Done](https://www.agilealliance.org/glossary/definition-of-done/)"
+        },
+        {
+          "title": "agilealliance.org/definition-of-ready",
+          "url": "https://www.agilealliance.org/glossary/definition-of-ready/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Definition of Ready](https://www.agilealliance.org/glossary/definition-of-ready/)"
+        },
+        {
+          "title": "An epic is a large user story.",
+          "url": "https://www.agilealliance.org/glossary/epic/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Epic](https://www.agilealliance.org/glossary/epic/)"
+        },
+        {
+          "title": "agilealliance.org/estimation",
+          "url": "https://www.agilealliance.org/glossary/estimation/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Estimation](https://www.agilealliance.org/glossary/estimation/)"
+        },
+        {
+          "title": "agilealliance.org/exploratory-testing",
+          "url": "https://www.agilealliance.org/glossary/exploratory-testing/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Exploratory Testing](https://www.agilealliance.org/glossary/exploratory-testing/)"
+        },
+        {
+          "title": "agilealliance.org/xp",
+          "url": "https://www.agilealliance.org/glossary/xp/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Extreme Programming](https://www.agilealliance.org/glossary/xp/)"
+        },
+        {
+          "title": "A facilitator is a person who chooses or is given the explicit role of conducting a meeting.",
+          "url": "https://www.agilealliance.org/glossary/facilitation/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Facilitation](https://www.agilealliance.org/glossary/facilitation/)"
+        },
+        {
+          "title": "agilealliance.org/frequent-release",
+          "url": "https://www.agilealliance.org/glossary/frequent-release/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Frequent Releases](https://www.agilealliance.org/glossary/frequent-release/)"
+        },
+        {
+          "title": "agilealliance.org/gwt",
+          "url": "https://www.agilealliance.org/glossary/gwt/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Given When Then](https://www.agilealliance.org/glossary/gwt/)"
+        },
+        {
+          "title": "agilealliance.org/incremental-development",
+          "url": "https://www.agilealliance.org/glossary/incremental-development/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Incremental Development](https://www.agilealliance.org/glossary/incremental-development/)"
+        },
+        {
+          "title": "agilealliance.org/information-radiators",
+          "url": "https://www.agilealliance.org/glossary/information-radiators/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Information Radiators](https://www.agilealliance.org/glossary/information-radiators/)"
+        },
+        {
+          "title": "agilealliance.org/integration",
+          "url": "https://www.agilealliance.org/glossary/integration/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Integration](https://www.agilealliance.org/glossary/integration/)"
+        },
+        {
+          "title": "agilealliance.org/invest",
+          "url": "https://www.agilealliance.org/glossary/invest/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [INVEST](https://www.agilealliance.org/glossary/invest/)"
+        },
+        {
+          "title": "agilealliance.org/iteration",
+          "url": "https://www.agilealliance.org/glossary/iteration/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Iteration](https://www.agilealliance.org/glossary/iteration/)"
+        },
+        {
+          "title": "agilealliance.org/iterative-development",
+          "url": "https://www.agilealliance.org/glossary/iterative-development/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Iterative Development](https://www.agilealliance.org/glossary/iterative-development/)"
+        },
+        {
+          "title": "agilealliance.org/kanban",
+          "url": "https://www.agilealliance.org/glossary/kanban/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Kanban](https://www.agilealliance.org/glossary/kanban/)"
+        },
+        {
+          "title": "(see more",
+          "url": "https://www.agilealliance.org/glossary/kanban-board/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Kanban Board](https://www.agilealliance.org/glossary/kanban-board/)"
+        },
+        {
+          "title": "agilealliance.org/lead-time",
+          "url": "https://www.agilealliance.org/glossary/lead-time/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Lead Time](https://www.agilealliance.org/glossary/lead-time/)"
+        },
+        {
+          "title": "agilealliance.org/milestone-retrospective",
+          "url": "https://www.agilealliance.org/glossary/milestone-retrospective/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Milestone Retrospective](https://www.agilealliance.org/glossary/milestone-retrospective/)"
+        },
+        {
+          "title": "agilealliance.org/mmf",
+          "url": "https://www.agilealliance.org/glossary/mmf/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Minimum Marketable Feature (MMF)](https://www.agilealliance.org/glossary/mmf/)"
+        },
+        {
+          "title": "agilealliance.org/mvp",
+          "url": "https://www.agilealliance.org/glossary/mvp/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Minimum Viable Product (MVP)](https://www.agilealliance.org/glossary/mvp/)"
+        },
+        {
+          "title": "agilealliance.org/mob-programming",
+          "url": "https://www.agilealliance.org/glossary/mob-programming/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Mob Programming](https://www.agilealliance.org/glossary/mob-programming/)"
+        },
+        {
+          "title": "agilealliance.org/mocks",
+          "url": "https://www.agilealliance.org/glossary/mocks/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Mock Objects](https://www.agilealliance.org/glossary/mocks/)"
+        },
+        {
+          "title": "agilealliance.org/nikoniko",
+          "url": "https://www.agilealliance.org/glossary/nikoniko/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Niko-niko Calendar](https://www.agilealliance.org/glossary/nikoniko/)"
+        },
+        {
+          "title": "agilealliance.org/open-space",
+          "url": "https://www.agilealliance.org/glossary/open-space/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Open Space](https://www.agilealliance.org/glossary/open-space/)"
+        },
+        {
+          "title": "agilealliance.org/pairing",
+          "url": "https://www.agilealliance.org/glossary/pairing/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Pair Programming](https://www.agilealliance.org/glossary/pairing/)"
+        },
+        {
+          "title": "Personas are synthetic biographies of fictitious users of the future product.",
+          "url": "https://www.agilealliance.org/glossary/personas/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Personas](https://www.agilealliance.org/glossary/personas/)"
+        },
+        {
+          "title": "agilealliance.org/poker",
+          "url": "https://www.agilealliance.org/glossary/poker/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Planning Poker](https://www.agilealliance.org/glossary/poker/)"
+        },
+        {
+          "title": "agilealliance.org/points-estimates-in",
+          "url": "https://www.agilealliance.org/glossary/points-estimates-in/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Points (estimates in)](https://www.agilealliance.org/glossary/points-estimates-in/)"
+        },
+        {
+          "title": "agilealliance.org/product-owner",
+          "url": "https://www.agilealliance.org/glossary/product-owner/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Product Owner](https://www.agilealliance.org/glossary/product-owner/)"
+        },
+        {
+          "title": "(see more",
+          "url": "https://www.agilealliance.org/glossary/project-chartering/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Project Chartering](https://www.agilealliance.org/glossary/project-chartering/)"
+        },
+        {
+          "title": "agilealliance.org/quickdesign",
+          "url": "https://www.agilealliance.org/glossary/quickdesign/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Quick Design Session](https://www.agilealliance.org/glossary/quickdesign/)"
+        },
+        {
+          "title": "agilealliance.org/refactoring",
+          "url": "https://www.agilealliance.org/glossary/refactoring/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Refactoring](https://www.agilealliance.org/glossary/refactoring/)"
+        },
+        {
+          "title": "agilealliance.org/relative-estimation",
+          "url": "https://www.agilealliance.org/glossary/relative-estimation/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Relative Estimation](https://www.agilealliance.org/glossary/relative-estimation/)"
+        },
+        {
+          "title": "agilealliance.org/heartbeatretro",
+          "url": "https://www.agilealliance.org/glossary/heartbeatretro/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Retrospective](https://www.agilealliance.org/glossary/heartbeatretro/)"
+        },
+        {
+          "title": "agilealliance.org/rules-of-simplicity",
+          "url": "https://www.agilealliance.org/glossary/rules-of-simplicity/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Rule of Simplicity](https://www.agilealliance.org/glossary/rules-of-simplicity/)"
+        },
+        {
+          "title": "Scrum is a process framework used to manage product development and other knowledge work.",
+          "url": "https://www.agilealliance.org/glossary/scrum/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Scrum](https://www.agilealliance.org/glossary/scrum/)"
+        },
+        {
+          "title": "please see this post",
+          "url": "https://www.agilealliance.org/scrumban/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Scrumban](https://www.agilealliance.org/scrumban/)"
+        },
+        {
+          "title": "agilealliance.org/scrum-master",
+          "url": "https://www.agilealliance.org/glossary/scrum-master/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Scrum Master](https://www.agilealliance.org/glossary/scrum-master/)"
+        },
+        {
+          "title": "agilealliance.org/scrum-of-scrums",
+          "url": "https://www.agilealliance.org/glossary/scrum-of-scrums/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Scrum of Scrums](https://www.agilealliance.org/glossary/scrum-of-scrums/)"
+        },
+        {
+          "title": "agilealliance.org/sign-up-for-tasks",
+          "url": "https://www.agilealliance.org/glossary/sign-up-for-tasks/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Sign Up for Tasks](https://www.agilealliance.org/glossary/sign-up-for-tasks/)"
+        },
+        {
+          "title": "agilealliance.org/simple-design",
+          "url": "https://www.agilealliance.org/glossary/simple-design/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Simple Design](https://www.agilealliance.org/glossary/simple-design/)"
+        },
+        {
+          "title": "agilealliance.org/sprint-backlog",
+          "url": "https://www.agilealliance.org/glossary/sprint-backlog/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Sprint Backlog](https://www.agilealliance.org/glossary/sprint-backlog/)"
+        },
+        {
+          "title": "agilealliance.org/sprint-planning",
+          "url": "https://www.agilealliance.org/glossary/sprint-planning/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Sprint Planning](https://www.agilealliance.org/glossary/sprint-planning/)"
+        },
+        {
+          "title": "Story mapping consists of ordering user stories along two independent dimensions.",
+          "url": "https://www.agilealliance.org/glossary/storymap/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Story Mapping](https://www.agilealliance.org/glossary/storymap/)"
+        },
+        {
+          "title": "agilealliance.org/split",
+          "url": "https://www.agilealliance.org/glossary/split/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Story Splitting](https://www.agilealliance.org/glossary/split/)"
+        },
+        {
+          "title": "The team aims for a work pace that they would be able to sustain indefinitely.",
+          "url": "https://www.agilealliance.org/glossary/sustainable/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Sustainable Pace](https://www.agilealliance.org/glossary/sustainable/)"
+        },
+        {
+          "title": "agilealliance.org/taskboard",
+          "url": "https://www.agilealliance.org/glossary/taskboard/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Task Board](https://www.agilealliance.org/glossary/taskboard/)"
+        },
+        {
+          "title": "agilealliance.org/tdd",
+          "url": "https://www.agilealliance.org/glossary/tdd/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Test Driven Development (TDD)](https://www.agilealliance.org/glossary/tdd/)"
+        },
+        {
+          "title": "agilealliance.org/team",
+          "url": "https://www.agilealliance.org/glossary/team/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Team](https://www.agilealliance.org/glossary/team/)"
+        },
+        {
+          "title": "agilealliance.org/team-room",
+          "url": "https://www.agilealliance.org/glossary/team-room/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Team Room](https://www.agilealliance.org/glossary/team-room/)"
+        },
+        {
+          "title": "“Card, Conversation, Confirmation” is a formula that captures the components of a User Story.",
+          "url": "https://www.agilealliance.org/glossary/three-cs/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Three C’s](https://www.agilealliance.org/glossary/three-cs/)"
+        },
+        {
+          "title": "agilealliance.org/three-amigos",
+          "url": "https://www.agilealliance.org/glossary/three-amigos/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Three Amigos](https://www.agilealliance.org/glossary/three-amigos/)"
+        },
+        {
+          "title": "agilealliance.org/three-qs",
+          "url": "https://www.agilealliance.org/glossary/three-qs/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Three Questions](https://www.agilealliance.org/glossary/three-qs/)"
+        },
+        {
+          "title": "(see more",
+          "url": "https://www.agilealliance.org/glossary/timebox/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Timebox](https://www.agilealliance.org/glossary/timebox/)"
+        },
+        {
+          "title": "agilealliance.org/ubiquitous-language",
+          "url": "https://www.agilealliance.org/glossary/ubiquitous-language/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Ubiquitous Language](https://www.agilealliance.org/glossary/ubiquitous-language/)"
+        },
+        {
+          "title": "agilealliance.org/unit-test",
+          "url": "https://www.agilealliance.org/glossary/unit-test/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Unit Testing](https://www.agilealliance.org/glossary/unit-test/)"
+        },
+        {
+          "title": "agilealliance.org/usability",
+          "url": "https://www.agilealliance.org/glossary/usability/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Usability Testing](https://www.agilealliance.org/glossary/usability/)"
+        },
+        {
+          "title": "agilealliance.org/user-stories",
+          "url": "https://www.agilealliance.org/glossary/user-stories/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [User Stories](https://www.agilealliance.org/glossary/user-stories/)"
+        },
+        {
+          "title": "agilealliance.org/user-story-template",
+          "url": "https://www.agilealliance.org/glossary/user-story-template/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [User Story Template](https://www.agilealliance.org/glossary/user-story-template/)"
+        },
+        {
+          "title": "agilealliance.org/velocity",
+          "url": "https://www.agilealliance.org/glossary/velocity/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Velocity](https://www.agilealliance.org/glossary/velocity/)"
+        },
+        {
+          "title": "agilealliance.org/version-control",
+          "url": "https://www.agilealliance.org/glossary/version-control/",
+          "type": "övrigt",
+          "subcategory": "Scrum Pillars and Values, Rolls and Terms",
+          "source": "Scrum Master > Scrum Pillars and Values, Rolls and Terms > [Version Control](https://www.agilealliance.org/glossary/version-control/)"
+        },
+        {
+          "title": "meetings.So",
+          "url": "http://meetings.so/",
+          "type": "övrigt",
+          "subcategory": "Scrum Teams",
+          "source": "Scrum Master > Scrum Teams > Scrum Team - Roles"
+        },
+        {
+          "title": "The Daily Stand Up",
+          "url": "https://en.wikipedia.org/wiki/Stand-up_meetinghttps://",
+          "type": "övrigt",
+          "subcategory": "The Sprint and the Scrum Events",
+          "source": "Scrum Master > The Sprint and the Scrum Events > Daily Standup Meeting"
+        },
+        {
+          "title": "Backlog Refinement",
+          "url": "https://www.agilealliance.org/glossary/backlog-grooming/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_glossary~'aa_organizations~'aa_research_paper~'aa_video",
+          "type": "övrigt",
+          "subcategory": "The Sprint and the Scrum Events",
+          "source": "Scrum Master > The Sprint and the Scrum Events > Daily Standup Meeting"
+        },
+        {
+          "title": "The Sprint Review",
+          "url": "https://www.scrum.org/resources/what-is-a-sprint-review",
+          "type": "övrigt",
+          "subcategory": "The Sprint and the Scrum Events",
+          "source": "Scrum Master > The Sprint and the Scrum Events > The Sprint Review Meeting"
+        },
+        {
+          "title": "scrum.org/what-is-an-increment",
+          "url": "https://www.scrum.org/resources/what-is-an-increment",
+          "type": "övrigt",
+          "subcategory": "Agile Artifacts Vision, Product Increment and Back",
+          "source": "Scrum Master > Agile Artifacts Vision, Product Increment and Back > The Product Increment"
+        },
+        {
+          "title": "scrum.org/10-tips-product-owners-product-vision",
+          "url": "https://www.scrum.org/resources/blog/10-tips-product-owners-product-vision",
+          "type": "övrigt",
+          "subcategory": "Agile Artifacts Vision, Product Increment and Back",
+          "source": "Scrum Master > Agile Artifacts Vision, Product Increment and Back > The Product Vision"
+        },
+        {
+          "title": "Sprint Backlog",
+          "url": "https://www.scrum.org/resources/what-is-a-sprint-backlog",
+          "type": "övrigt",
+          "subcategory": "Agile Artifacts Vision, Product Increment and Back",
+          "source": "Scrum Master > Agile Artifacts Vision, Product Increment and Back > Backlogs: Product, Release, and Sprint"
+        },
+        {
+          "title": "Release Backlog and the other Backlogs, what is the difference..",
+          "url": "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+          "type": "övrigt",
+          "subcategory": "Agile Artifacts Vision, Product Increment and Back",
+          "source": "Scrum Master > Agile Artifacts Vision, Product Increment and Back > Backlogs: Product, Release, and Sprint"
+        },
+        {
+          "title": "Story Points",
+          "url": "https://www.scrum.org/resources/blog/why-do-we-use-story-points-estimating",
+          "type": "övrigt",
+          "subcategory": "Story Points and Definition of Done (DoD)",
+          "source": "Scrum Master > Story Points and Definition of Done (DoD) > Story Points"
+        },
+        {
+          "title": "Please continue with this reading",
+          "url": "https://www.agilealliance.org/resources/experience-reports/improving-estimation-story-points/",
+          "type": "övrigt",
+          "subcategory": "Estimating Stories",
+          "source": "Scrum Master > Estimating Stories > Planning User Stories"
+        },
+        {
+          "title": "en.wikipedia.org/Fibonacci_scale_(agile",
+          "url": "https://en.wikipedia.org/wiki/Fibonacci_scale_(agile",
+          "type": "övrigt",
+          "subcategory": "Estimating Stories",
+          "source": "Scrum Master > Estimating Stories > Planning User Stories"
+        },
+        {
+          "title": "Planning Poker",
+          "url": "https://en.wikipedia.org/wiki/Planning_poker",
+          "type": "övrigt",
+          "subcategory": "Estimating Stories",
+          "source": "Scrum Master > Estimating Stories > Planning User Stories"
+        },
+        {
+          "title": "Viewing a Velocity chart",
+          "url": "https://confluence.atlassian.com/jirasoftwareserver085/velocity-chart-981156731.html",
+          "type": "övrigt",
+          "subcategory": "Velocity Tracking",
+          "source": "Scrum Master > Velocity Tracking > Velocity Based Planning"
+        },
+        {
+          "title": "MoSCoW method",
+          "url": "https://en.wikipedia.org/wiki/MoSCoW_method",
+          "type": "övrigt",
+          "subcategory": "Backlog Prioritization",
+          "source": "Scrum Master > Backlog Prioritization"
+        },
+        {
+          "title": "WSJF",
+          "url": "https://www.scaledagileframework.com/wsjf/",
+          "type": "övrigt",
+          "subcategory": "Backlog Prioritization",
+          "source": "Scrum Master > Backlog Prioritization > Economic Prioritization"
+        },
+        {
+          "title": "Burndown reports",
+          "url": "https://en.wikipedia.org/wiki/Burn_down_chart",
+          "type": "övrigt",
+          "subcategory": "Scrum Reporting",
+          "source": "Scrum Master > Scrum Reporting"
+        },
+        {
+          "title": "Burnup Chart",
+          "url": "https://clickup.com/blog/agile/burn-up-chart/",
+          "type": "övrigt",
+          "subcategory": "Scrum Reporting",
+          "source": "Scrum Master > Scrum Reporting"
+        },
+        {
+          "title": "The Velocity Chart",
+          "url": "https://www.agile-scrum.be/whats-great-scrum-methodology/velocity-chart/",
+          "type": "övrigt",
+          "subcategory": "Scrum Reporting",
+          "source": "Scrum Master > Scrum Reporting"
+        },
+        {
+          "title": "workflow management",
+          "url": "https://www.scaledagileframework.com/team-kanban/",
+          "type": "övrigt",
+          "subcategory": "Team Swarming and Workflow Management",
+          "source": "Scrum Master > Team Swarming and Workflow Management"
+        },
+        {
+          "title": "SAFe Agile teams",
+          "url": "https://www.scaledagileframework.com/agile-teams/",
+          "type": "övrigt",
+          "subcategory": "Team Swarming and Workflow Management",
+          "source": "Scrum Master > Team Swarming and Workflow Management"
+        },
+        {
+          "title": "Managing Risks with ROAM",
+          "url": "https://kendis.io/risks-management/managing-risks-roam/",
+          "type": "övrigt",
+          "subcategory": "Risk management Strategies",
+          "source": "Scrum Master > Risk management Strategies > ROAM Risks"
+        },
+        {
+          "title": "Scaling Agile Step 1",
+          "url": "https://www.blueprintsys.com/scaling-agile/step-1-get-everyone-on-board-with-agile",
+          "type": "övrigt",
+          "subcategory": "Introduction to Scaling Scrum and Agile",
+          "source": "Scrum Master > Introduction to Scaling Scrum and Agile"
+        },
+        {
+          "title": "Agile Scaling.",
+          "url": "https://www.atlassian.com/agile/agile-at-scale/long-term-agile-planning",
+          "type": "övrigt",
+          "subcategory": "Introduction to Scaling Scrum and Agile",
+          "source": "Scrum Master > Introduction to Scaling Scrum and Agile > Starting the Scrum Journey"
+        },
+        {
+          "title": "Managing an Agile Portfolio",
+          "url": "https://www.atlassian.com/agile/agile-at-scale/managing-an-agile-portfolio",
+          "type": "övrigt",
+          "subcategory": "Creating the Agile Program Based on Scrum",
+          "source": "Scrum Master > Creating the Agile Program Based on Scrum"
+        },
+        {
+          "title": "SAFe Continuous Integration",
+          "url": "https://www.scaledagileframework.com/continuous-integration/",
+          "type": "övrigt",
+          "subcategory": "Creating the Agile Program Based on Scrum",
+          "source": "Scrum Master > Creating the Agile Program Based on Scrum"
+        },
+        {
+          "title": "Test Automation.",
+          "url": "https://www.perfecto.io/blog/what-is-test-automation",
+          "type": "övrigt",
+          "subcategory": "Creating the Agile Program Based on Scrum",
+          "source": "Scrum Master > Creating the Agile Program Based on Scrum > Testing and Quality in the Agile Program"
+        },
+        {
+          "title": "Agile for Hardware Product Development",
+          "url": "https://www.agileforhardware.com/",
+          "type": "övrigt",
+          "subcategory": "Custom Software for Custom Hardware",
+          "source": "Scrum Master > Custom Software for Custom Hardware > Scrum and Agile Hardware and Software Solutions"
+        },
+        {
+          "title": "SAFe Solution",
+          "url": "https://www.scaledagileframework.com/solution-train/",
+          "type": "övrigt",
+          "subcategory": "Custom Software for Custom Hardware",
+          "source": "Scrum Master > Custom Software for Custom Hardware > Software Programs and Hardware Programs"
+        },
+        {
+          "title": "Agile Myth #1: It Can’t Work for Hardware!",
+          "url": "https://www.tcgen.com/blog/agile-myth-1-cant-work-hardware",
+          "type": "övrigt",
+          "subcategory": "Custom Software for Custom Hardware",
+          "source": "Scrum Master > Custom Software for Custom Hardware > Agile does work for Device development: Hardware and Software"
+        },
+        {
+          "title": "Challenges of Adopting Agile in Combined Hardware and Software Environments",
+          "url": "https://www.cprime.com/resources/blog/challenges-of-adopting-agile-in-combined-hardware-and-software-environments/",
+          "type": "övrigt",
+          "subcategory": "Delivering Custom Hardware and Software Solutions",
+          "source": "Scrum Master > Delivering Custom Hardware and Software Solutions > Challenges of Adopting Agile in Combined Hardware and Software Environments"
+        },
+        {
+          "title": "Building Firmware using Agile",
+          "url": "https://www.embedded.com/yes-you-can-develop-embedded-software-using-agile-methodology/",
+          "type": "övrigt",
+          "subcategory": "Delivering Custom Hardware and Software Solutions",
+          "source": "Scrum Master > Delivering Custom Hardware and Software Solutions > Building Firmware using Agile"
+        },
+        {
+          "title": "Test Emulation",
+          "url": "https://www.tutorialspoint.com/mobile_testing/mobile_testing_emulator_simulator.htm",
+          "type": "övrigt",
+          "subcategory": "Delivering Custom Hardware and Software Solutions",
+          "source": "Scrum Master > Delivering Custom Hardware and Software Solutions > Test mulation"
+        },
+        {
+          "title": "Hardware Teams at Scale",
+          "url": "https://www.scaledagileframework.com/hardware-teams-in-safe/",
+          "type": "övrigt",
+          "subcategory": "Delivering Custom Hardware and Software Solutions",
+          "source": "Scrum Master > Delivering Custom Hardware and Software Solutions > Good Practices for Hardware and Software Development in a Scaled Environment"
+        },
+        {
+          "title": "TDD Example",
+          "url": "https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/",
+          "type": "övrigt",
+          "subcategory": "XP Test Driven Development and Continuous Integrat",
+          "source": "Scrum Master > XP Test Driven Development and Continuous Integrat > Introduction to XP's Test-Driven Development"
+        },
+        {
+          "title": "Scrum value",
+          "url": "https://www.scrum.org/resources/blog/5-scrum-values-take-center-stage",
+          "type": "övrigt",
+          "subcategory": "Scrum and the Lean and Kanban Methodologies",
+          "source": "Scrum Master > Scrum and the Lean and Kanban Methodologies > Implementing Kanban to Drive Scrum Openness"
+        },
+        {
+          "title": "Kanban board",
+          "url": "https://en.wikipedia.org/wiki/Kanban_board",
+          "type": "övrigt",
+          "subcategory": "Scrum and the Lean and Kanban Methodologies",
+          "source": "Scrum Master > Scrum and the Lean and Kanban Methodologies > Implementing Kanban to Drive Scrum Openness"
+        },
+        {
+          "title": "Assume variability; preserve options",
+          "url": "https://www.scaledagileframework.com/assume-variability-preserve-options/",
+          "type": "övrigt",
+          "subcategory": "Scrum and the Lean and Kanban Methodologies",
+          "source": "Scrum Master > Scrum and the Lean and Kanban Methodologies > Managing Unpredictability"
+        },
+        {
+          "title": "DevOps mindset",
+          "url": "https://opensource.com/article/19/5/values-devops-mindset",
+          "type": "övrigt",
+          "subcategory": "Adding DevOps to the Agile solution",
+          "source": "Scrum Master > Adding DevOps to the Agile solution > The DevOps Mindset"
+        },
+        {
+          "title": "DevSecOps",
+          "url": "https://www.scaledagileframework.com/devops/",
+          "type": "övrigt",
+          "subcategory": "Adding DevOps to the Agile solution",
+          "source": "Scrum Master > Adding DevOps to the Agile solution > DevSecOps"
+        },
+        {
+          "title": "DevOps and virtualization",
+          "url": "https://www.xenonstack.com/insights/virtualization-in-devops/",
+          "type": "övrigt",
+          "subcategory": "Adding DevOps to the Agile solution",
+          "source": "Scrum Master > Adding DevOps to the Agile solution > DevOps and Virtualization"
+        },
+        {
+          "title": "stackify.com/15-metrics-for-devops-success",
+          "url": "https://stackify.com/15-metrics-for-devops-success/",
+          "type": "övrigt",
+          "subcategory": "Adding DevOps to the Agile solution",
+          "source": "Scrum Master > Adding DevOps to the Agile solution > DevOps and Metrics"
+        },
+        {
+          "title": "Continuous Deployment and DevOps",
+          "url": "https://www.padok.fr/en/blog/devops-continuous-deployment",
+          "type": "övrigt",
+          "subcategory": "Adding DevOps to the Agile solution",
+          "source": "Scrum Master > Adding DevOps to the Agile solution > DevOps and Continuous Deployment"
+        },
+        {
+          "title": "notion.vip/draw.html",
+          "url": "https://notion.vip/notion-chart/draw.html?config_chartType=line&config_documentId=1Wg8OoBNUlWIjvJlUkzsTProVMOvKTLDTinoeIAOd6mk&config_dataRange=G2:H14&config_sheetName=Chart%20Tables&config_theme=lightMode&option_colors=%23D9730D&option_hAxis_format=MMM%20''YY",
+          "type": "övrigt",
+          "subcategory": "Sprint Retrospective",
+          "source": "Notion Scrum Template V2 > Sprint Retrospective > Namnlös > Sprint 1 > Burndown Chart"
+        }
+      ]
+    },
+    {
+      "id": "jobb-och-lia",
+      "title": "Jobb & LIA",
+      "description": "",
+      "links": [
+        {
+          "title": "t.co/hVvE3lto6L",
+          "url": "https://t.co/hVvE3lto6L",
+          "type": "övrigt",
+          "subcategory": "Interview prep",
+          "source": "Web dev resource > Interview prep"
+        },
+        {
+          "title": "Adobe Portfolio",
+          "url": "https://portfolio.adobe.com/?promoid=BDDS3K1N&mv=other",
+          "type": "övrigt",
+          "subcategory": "Tools",
+          "source": "Resource Package Design > Tools"
+        },
+        {
+          "title": "Notion Template Gallery - Designer portfolio",
+          "url": "https://www.notion.so/templates/designer-portfolio",
+          "type": "övrigt",
+          "subcategory": "Tools",
+          "source": "Resource Package Design > Tools"
+        },
+        {
+          "title": "Framer: Portfolio Website Templates",
+          "url": "https://www.framer.com/templates/category/portfolio/",
+          "type": "övrigt",
+          "subcategory": "Tools",
+          "source": "Resource Package Design > Tools"
+        },
+        {
+          "title": "Create a Portfolio Website - Make an Online Portfolio - Squarespace",
+          "url": "https://www.squarespace.com/websites/create-a-portfolio/?channel=pnb&subchannel=go&campaign=pnb-go-row_accel-en-core_verticals-e&subcampaign=(portfolio-en_portfolio-template_e",
+          "type": "övrigt",
+          "subcategory": "Tools",
+          "source": "Resource Package Design > Tools"
+        },
+        {
+          "title": "Portfolio Website Templates Available at Webflow",
+          "url": "https://webflow.com/tag/portfolio-websites",
+          "type": "övrigt",
+          "subcategory": "Tools",
+          "source": "Resource Package Design > Tools"
+        },
+        {
+          "title": "Portfolios hemsidemallar | Portfolio och CV | Wix.com",
+          "url": "https://sv.wix.com/website/templates/html/portfolio-cv/portfolios",
+          "type": "övrigt",
+          "subcategory": "Tools",
+          "source": "Resource Package Design > Tools"
+        },
+        {
+          "title": "Portfolio WordPress Themes",
+          "url": "https://wordpress.com/themes/portfolio",
+          "type": "övrigt",
+          "subcategory": "Tools",
+          "source": "Resource Package Design > Tools"
+        },
+        {
+          "title": "Aaron Rudyk's Portfolio",
+          "url": "https://www.aaronrudyk.com/",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo > Portfolion"
+        },
+        {
+          "title": "Mike Cotton Portfolio",
+          "url": "https://www.mikecottondesigns.com/",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo > Portfolion"
+        },
+        {
+          "title": "Travel Planning App",
+          "url": "https://www.ljubomirbardzic.com/work/travel-planning-app",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo > Case"
+        },
+        {
+          "title": "HingWa | Website Redesign UX/UI Case Study",
+          "url": "https://www.behance.net/gallery/142219347/HingWa-Website-Redesign-UXUI-Case-Study",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo > Case"
+        },
+        {
+          "title": "ElBolaget AB Project",
+          "url": "https://www.behance.net/gallery/138696201/ElBolaget-AB-Project",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo > Case"
+        },
+        {
+          "title": "Jetfuel | Food Delivery App",
+          "url": "https://www.behance.net/gallery/102365105/Jetfuel-Food-Delivery-App",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo > Case"
+        },
+        {
+          "title": "Ridgen Toothbrush and Irrigator Mobile App",
+          "url": "https://www.behance.net/gallery/134857329/Ridgen-Toothbrush-and-Irrigator-Mobile-App",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo > Case"
+        },
+        {
+          "title": "A Walking Dog Mobile App",
+          "url": "https://www.behance.net/gallery/141802391/A-Walking-Dog-Mobile-App",
+          "type": "övrigt",
+          "subcategory": "Inspo",
+          "source": "Resource Package Design > Inspo > Case"
+        }
+      ]
+    },
+    {
+      "id": "verktyg-och-ovrigt",
+      "title": "Verktyg & övrigt",
+      "description": "",
+      "links": [
+        {
+          "title": "UX Weekly Newsletter",
+          "url": "https://www.interaction-design.org/newsletter",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev"
+        },
+        {
+          "title": "The UX Notebook: A UX newsletter by UX designer, Sarah Doody",
+          "url": "https://www.sarahdoody.com/ux-notebook-newsletter/",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev"
+        },
+        {
+          "title": "UX Newsletter",
+          "url": "https://www.uxbeginner.com/ux-newsletter/",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev"
+        },
+        {
+          "title": "Get ALA via Email",
+          "url": "https://alistapart.com/email-signup/",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev"
+        },
+        {
+          "title": "Want to increase customer engagement?",
+          "url": "https://www.nirandfar.com/product-psychology/",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev"
+        },
+        {
+          "title": "The UX Collective Newsletter",
+          "url": "https://newsletter.uxdesign.cc/",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev"
+        },
+        {
+          "title": "UX Booth Newsletter | UX Booth",
+          "url": "https://www.uxbooth.com/newsletter/",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev"
+        },
+        {
+          "title": "Subscribe | Inside Design Blog",
+          "url": "https://www.invisionapp.com/inside-design/subscribe/",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev"
+        },
+        {
+          "title": "Signup for code inspiration, webinars, news and more.",
+          "url": "https://www.technigo.io/signup/newsletter",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev"
+        },
+        {
+          "title": "Designill's Newsletter",
+          "url": "https://designill.substack.com/",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev"
+        },
+        {
+          "title": "designbuddies.community",
+          "url": "https://www.designbuddies.community/",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev > Communitys & företag i branschen:"
+        },
+        {
+          "title": "Kontakt - techlove - människa <3 maskin",
+          "url": "https://techlove.se/kontakt/",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev > Communitys & företag i branschen:"
+        },
+        {
+          "title": "Curiously Green, the green web newsletter - Wholegrain Digital",
+          "url": "https://www.wholegraindigital.com/curiously-green/",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev > Communitys & företag i branschen:"
+        },
+        {
+          "title": "Nyhetsbrev",
+          "url": "https://www.funka.com/om-funka/nyheter/nyhetsbrev/",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev > Communitys & företag i branschen:"
+        },
+        {
+          "title": "Prenumerera på nyhetsbrev",
+          "url": "https://antrop.se/prenumerera-pa-nyhetsbrev/",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev > Communitys & företag i branschen:"
+        },
+        {
+          "title": "Nyhetsbrev",
+          "url": "https://www.valtech.com/sv-se/nyheter-inbjudningar/",
+          "type": "övrigt",
+          "subcategory": "Nyhetsbrev",
+          "source": "Resource Package Design > Nyhetsbrev > Communitys & företag i branschen:"
+        },
+        {
+          "title": "Martin UX/UI Designer (@ui.martin) Instagram photos and videos",
+          "url": "https://www.instagram.com/ui.martin/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "Sergio UX/UI Designer (@ui.sergio) Instagram photos and videos",
+          "url": "https://www.instagram.com/ui.sergio/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "UI/UX Designer | Ruben (@uiuxcreative) Instagram photos and videos",
+          "url": "https://www.instagram.com/uiuxcreative/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "UI/UX Designer (@uiadrian) Instagram photos and videos",
+          "url": "https://www.instagram.com/uiadrian/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "UI Gradient | Learn UI/UX (@uigradient) Instagram photos and videos",
+          "url": "https://www.instagram.com/ui_gradient/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "DesignerTom | UX Design Lead (@itsdesignertom) Instagram photos and videos",
+          "url": "https://www.instagram.com/itsdesignertom/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "Janus | Product Design Tech Career 🇨🇦🇭🇰 (@janustiu) Instagram photos and videos",
+          "url": "https://www.instagram.com/janustiu/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "Zander Whitehurst | UX/UI (@zanderwhitehurst) Instagram photos and videos",
+          "url": "https://www.instagram.com/zanderwhitehurst/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "UX / UI Designer Jan Mraz (@janmux) Instagram photos and videos",
+          "url": "https://www.instagram.com/janm_ux/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "UI Bucket (@uibucket) Instagram photos and videos",
+          "url": "https://www.instagram.com/uibucket/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "Mizko (UI/UX Design) (@themizko) Instagram photos and videos",
+          "url": "https://www.instagram.com/themizko/?hl=sv",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "UX/UI Daily (@uxuidaily) Instagram photos and videos",
+          "url": "https://www.instagram.com/uxui_daily/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "Memorisely · UX/UI, Branding & Coding Bootcamps (@memorisely) Instagram photos and videos",
+          "url": "https://www.instagram.com/memorisely/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "Web Design Inspiration (UI/UX) (@welovewebdesign) Instagram photos and videos",
+          "url": "https://www.instagram.com/welovewebdesign/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "Felix UX UI Design (@ux.by.felix) Instagram photos and videos",
+          "url": "https://www.instagram.com/ux.by.felix/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "Midtone (@midtone.ux) Instagram photos and videos",
+          "url": "https://www.instagram.com/midtone.ux/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "Verbal Identity Studio | FinTech (@kizkopop) Instagram photos and videos",
+          "url": "https://www.instagram.com/kizkopop_/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "Designill - UI/UX Design Tips (@designill4u) Instagram photos and videos",
+          "url": "https://www.instagram.com/designill4u/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "Figma (@figma) Instagram photos and videos",
+          "url": "https://www.instagram.com/figma/",
+          "type": "övrigt",
+          "subcategory": "Instagram",
+          "source": "Resource Package Design > Instagram"
+        },
+        {
+          "title": "Digital Marknadsföring Sverige",
+          "url": "https://www.facebook.com/groups/2105267066386254/?hoisted_section_header_type=recently_seen&multi_permalinks=3431623730417241",
+          "type": "övrigt",
+          "subcategory": "Facebookgrupper",
+          "source": "Resource Package Design > Facebookgrupper"
+        },
+        {
+          "title": "Jobbtips inom Design och UX",
+          "url": "https://www.facebook.com/groups/1005830216165877/",
+          "type": "övrigt",
+          "subcategory": "Facebookgrupper",
+          "source": "Resource Package Design > Facebookgrupper"
+        },
+        {
+          "title": "UI / UX Designers & Developers",
+          "url": "https://www.facebook.com/groups/511035342752825/",
+          "type": "övrigt",
+          "subcategory": "Facebookgrupper",
+          "source": "Resource Package Design > Facebookgrupper"
+        },
+        {
+          "title": "UX Sverige",
+          "url": "https://www.facebook.com/groups/uxsverige/",
+          "type": "övrigt",
+          "subcategory": "Facebookgrupper",
+          "source": "Resource Package Design > Facebookgrupper"
+        },
+        {
+          "title": "Frilansare inom Sociala medier, Media & Design",
+          "url": "https://www.facebook.com/groups/frilansaresome/",
+          "type": "övrigt",
+          "subcategory": "Facebookgrupper",
+          "source": "Resource Package Design > Facebookgrupper"
+        },
+        {
+          "title": "Tillgänglighetstruppen",
+          "url": "https://www.facebook.com/groups/1084090414947249/",
+          "type": "övrigt",
+          "subcategory": "Facebookgrupper",
+          "source": "Resource Package Design > Facebookgrupper"
+        },
+        {
+          "title": "Women in UX",
+          "url": "https://www.facebook.com/groups/womenux/",
+          "type": "övrigt",
+          "subcategory": "Facebookgrupper",
+          "source": "Resource Package Design > Facebookgrupper"
+        },
+        {
+          "title": "Google UX Design Certificate Group | Coursera",
+          "url": "https://www.facebook.com/groups/uxdesigngroupcourse/",
+          "type": "övrigt",
+          "subcategory": "Facebookgrupper",
+          "source": "Resource Package Design > Facebookgrupper"
+        },
+        {
+          "title": "voicepen.ai",
+          "url": "https://voicepen.ai/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "krisp.ai",
+          "url": "https://krisp.ai/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "beatoven.ai",
+          "url": "https://www.beatoven.ai/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "cleanvoice.ai",
+          "url": "https://cleanvoice.ai/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "podcastle.ai",
+          "url": "https://podcastle.ai/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "vidyo.ai",
+          "url": "https://vidyo.ai/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "lnkd.in/eptCVijb",
+          "url": "https://lnkd.in/eptCVijb",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "soundraw.io",
+          "url": "https://soundraw.io/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "otter.ai",
+          "url": "https://otter.ai/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "flair.ai",
+          "url": "https://flair.ai/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "illustroke.com",
+          "url": "https://illustroke.com/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "stockimg.ai",
+          "url": "https://stockimg.ai/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "looka.com",
+          "url": "https://looka.com/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "copy.ai",
+          "url": "https://www.copy.ai/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "copymonkey.ai",
+          "url": "http://copymonkey.ai/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "ocoya.com",
+          "url": "https://www.ocoya.com/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "unbounce.com",
+          "url": "https://unbounce.com/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "puzzlelabs.ai",
+          "url": "https://www.puzzlelabs.ai/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "cleanup.pictures",
+          "url": "https://cleanup.pictures/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "inkforall.com",
+          "url": "https://inkforall.com/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > Audio and Video AI Tools:"
+        },
+        {
+          "title": "storyd.ai",
+          "url": "https://storyd.ai/",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > AI Data Presentation :"
+        },
+        {
+          "title": "lnkd.in/efKXxUkU",
+          "url": "https://lnkd.in/efKXxUkU",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > AI Database:"
+        },
+        {
+          "title": "lnkd.in/esexMFzt",
+          "url": "https://lnkd.in/esexMFzt",
+          "type": "övrigt",
+          "subcategory": "AI",
+          "source": "Resource Package Design > AI > AI Database:"
+        }
+      ]
+    }
+  ]
+}
