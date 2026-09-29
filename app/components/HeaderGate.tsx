@@ -7,8 +7,9 @@ import Header from "./Header";
 // /medlem/login is unauthenticated, so it keeps the regular site header.
 export default function HeaderGate() {
   const pathname = usePathname();
-  const isProtectedMemberPage =
-    pathname?.startsWith("/medlem") && pathname !== "/medlem/login";
+  const isMemberPath =
+    pathname === "/medlem" || Boolean(pathname?.startsWith("/medlem/"));
+  const isProtectedMemberPage = isMemberPath && pathname !== "/medlem/login";
   if (isProtectedMemberPage) return null;
   return <Header />;
 }
