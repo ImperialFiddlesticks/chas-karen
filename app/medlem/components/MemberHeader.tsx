@@ -2,19 +2,34 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import ColorStripe from "@/app/components/ColorStripe";
 import { MEMBER_NAV_LINKS } from "@/lib/member-nav-links";
 import LogoutButton from "./LogoutButton";
 
 export default function MemberHeader() {
   const [menuOpen, setMenuOpen] = useState(false);
+  const headerRef = useRef<HTMLElement>(null);
+
+  useEffect(() => {
+    if (!menuOpen) return;
+
+    function handlePointerDown(event: PointerEvent) {
+      if (!headerRef.current?.contains(event.target as Node)) {
+        setMenuOpen(false);
+      }
+    }
+
+    document.addEventListener("pointerdown", handlePointerDown);
+    return () => document.removeEventListener("pointerdown", handlePointerDown);
+  }, [menuOpen]);
 
   return (
-    <header className="sticky top-0 z-50 bg-[#000] text-white">
+    <header ref={headerRef} className="sticky top-0 z-50 bg-[#000] text-white">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-6">
         <Link
           href="/"
+          onClick={() => setMenuOpen(false)}
           className="flex items-center gap-2 text-lg font-semibold tracking-tight"
         >
           <Image

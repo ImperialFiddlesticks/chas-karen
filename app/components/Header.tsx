@@ -2,18 +2,33 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import ColorStripe from "./ColorStripe";
 import { NAV_LINKS } from "@/lib/nav-links";
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
+  const headerRef = useRef<HTMLElement>(null);
+
+  useEffect(() => {
+    if (!menuOpen) return;
+
+    function handlePointerDown(event: PointerEvent) {
+      if (!headerRef.current?.contains(event.target as Node)) {
+        setMenuOpen(false);
+      }
+    }
+
+    document.addEventListener("pointerdown", handlePointerDown);
+    return () => document.removeEventListener("pointerdown", handlePointerDown);
+  }, [menuOpen]);
 
   return (
-    <header className="sticky top-0 z-50 bg-chas-navy text-white">
+    <header ref={headerRef} className="sticky top-0 z-50 bg-chas-navy text-white">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-6">
         <Link
           href="/"
+          onClick={() => setMenuOpen(false)}
           className="flex items-center gap-2 text-lg font-semibold tracking-tight"
         >
           <Image
